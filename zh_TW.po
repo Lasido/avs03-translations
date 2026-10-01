@@ -1552,7 +1552,7 @@ msgstr ""
 #. Upgrade card - description (weapon_sniper)
 #. source: One heavy shot at the strongest enemy. Clears show in a killfeed.
 msgid "UPGRADE.weapon_sniper.description"
-msgstr "一擊重創最強敵人.擊殺訊息會顯示"
+msgstr "一擊重創最強敵人.會顯示擊殺訊息"
 
 #. Upgrade card - name (weapon_minesweeper)
 #. source: Mines
@@ -4035,7 +4035,7 @@ msgstr "開啟{amount}次文件"
 #. source: Open {amount} {file} files
 #. Keep placeholders unchanged: {amount}, {file}
 msgid "UI.unlock_open_file_type"
-msgstr "開啟 {amount} {file} 個文件"
+msgstr "開啟 {amount},{file} 個文件"
 
 #. Unlock requirement - Download More RAM N times
 #. source: Download More RAM {amount} times
