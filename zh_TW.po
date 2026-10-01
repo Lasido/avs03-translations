@@ -1244,42 +1244,42 @@ msgstr "logo生成中"
 #. Weapon amount upgrade - phrase after "additional" for Bubbles
 #. source: bubbles spawning
 msgid "WEAPON.bubbles.spawn_noun"
-msgstr "氣泡生成中"
+msgstr "氣泡生成"
 
 #. Weapon amount upgrade - phrase after "additional" for C: Drive
 #. source: drives spawning
 msgid "WEAPON.cdrive.spawn_noun"
-msgstr "硬碟生成中"
+msgstr "硬碟生成"
 
 #. Weapon amount upgrade - phrase after "additional" for Cut
 #. source: scissors spawning
 msgid "WEAPON.cut.spawn_noun"
-msgstr "剪刀生成中"
+msgstr "剪刀生成"
 
 #. Weapon amount upgrade - phrase after "additional" for Firewall
 #. source: fire rings spawning
 msgid "WEAPON.firewall.spawn_noun"
-msgstr "火圈生成中"
+msgstr "火圈生成"
 
 #. Weapon amount upgrade - phrase after "additional" for FontArt
 #. source: letters spawning
 msgid "WEAPON.fontart.spawn_noun"
-msgstr "信封生成中"
+msgstr "信封生成"
 
 #. Weapon amount upgrade - phrase after "additional" for HaD: DoCK
 #. source: shots
 msgid "WEAPON.hitmarkers.spawn_noun"
-msgstr "殺"
+msgstr "射擊(次數)"
 
 #. Weapon amount upgrade - phrase after "additional" for Paint
 #. source: circles spawning
 msgid "WEAPON.paint.spawn_noun"
-msgstr "圓圈生成中"
+msgstr "圓圈生成"
 
 #. Weapon amount upgrade - phrase after "additional" for Pinball
 #. source: pinballs spawning
 msgid "WEAPON.pinball.spawn_noun"
-msgstr "彈珠生成中"
+msgstr "彈珠生成"
 
 #. Weapon amount upgrade - phrase after "additional" for Quarantine
 #. source: scans
@@ -1366,7 +1366,7 @@ msgstr "最大生命值增加 +{percent}"
 #. source: Increases power of Repel, Heat, Infect and Lag from weapons by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_power_multi.description"
-msgstr "武器的擊退、熱能、感染和延遲效果提升 +{percent}%"
+msgstr "武器的排斥、熱能、感染和延遲效果提升 +{percent}%"
 
 #. Upgrade card - description (upgrade_player_proc_speed)
 #. source: Increases file opening speed by +{percent}%.
@@ -1452,7 +1452,7 @@ msgstr "防火牆"
 #. Upgrade card - description (weapon_firewall)
 #. source: Creates a ring of fire around the player that adds stacks of Heat to enemies.
 msgid "UPGRADE.weapon_firewall.description"
-msgstr "在玩家周圍生成一個火焰環,使敵人疊加熱量層數"
+msgstr "在玩家周圍生成一個火焰環,使敵人疊加熱能層數"
 
 #. Upgrade card - name (weapon_fontart)
 #. source: FontArt
@@ -3881,12 +3881,12 @@ msgstr "正在驗證快取檔案..."
 #. Clearzone archive window title
 #. source: Clearzone Archive
 msgid "UI.rar_title"
-msgstr ""
+msgstr "清除區域封存"
 
 #. Clearzone plugin pick window title
 #. source: Clearzone - Pick Your Plugin
 msgid "UI.rar_plugin_title"
-msgstr "Clearzone - 選擇您的插件"
+msgstr "清除區域 - 選擇您的插件"
 
 #. Clearzone archive clear count
 #. source: %d / %d
@@ -4317,7 +4317,9 @@ msgstr "立即治療,或升級生命值檢查檔以備後續戰鬥使用"
 #. UI (script-driven)
 #. source: Health Check Plus
 msgid "UI.unlock_file_health_check_pro_reward"
-msgstr "健康檢查Plus"
+msgstr ""
+"健康檢查\n"
+"Plus"
 
 #. UI (script-driven)
 #. source: Invest Coin between battles and cash out later.
@@ -4367,7 +4369,7 @@ msgstr "清除區域內的敵人後,即可從三個插件中選擇一個"
 #. UI (script-driven)
 #. source: Clearzone
 msgid "UI.unlock_file_killzone_reward"
-msgstr ""
+msgstr "清除區域"
 
 #. UI (script-driven)
 #. source: Install 3 legendary plugins
@@ -4392,7 +4394,7 @@ msgstr "10 秒內擊敗 Plus!敵人"
 #. UI (script-driven)
 #. source: Install Morgan Antivirus to raise difficulty and spawn extra Plus! enemies.
 msgid "UI.unlock_file_morgan_av_desc"
-msgstr "安裝 Morgan Antivirus 以提高難度並產生額外的 Plus! 敵人"
+msgstr "安裝摩根防毒軟體以提高難度並產生額外的 Plus! 敵人"
 
 #. UI (script-driven)
 #. source: Bonus Beanz
@@ -4903,7 +4905,7 @@ msgstr "此安裝的插件無法被複製"
 #. Ethanol 130% tooltip after the copy was used
 #. source: Already used in this folder.
 msgid "UI.ethanol_used"
-msgstr "此資料夾中已使用"
+msgstr "此資料夾已使用"
 
 #. Ethanol 130% idle panel title
 #. source: Ready to Distill...
@@ -5087,16 +5089,14 @@ msgstr "速度:%.2f 每秒"
 #. source: Refresh: %.2fs
 #. Keep placeholders unchanged: %.2f
 msgid "TOOLTIP.refresh"
-msgstr "刷新:%.2fs"
+msgstr "刷新:%.2f 秒"
 
 #. Stat tooltip
 #. source: Size: %.2fx
 #. Keep placeholders unchanged: %.2f
 msgid "TOOLTIP.size"
 msgstr ""
-"尺寸:.2f 倍\n"
-"\n"
-"‪\n"
+"尺寸:%.2f 倍\n"
 "‪"
 
 #. Stat tooltip
@@ -5133,7 +5133,7 @@ msgstr "爆擊率:%.0f%%"
 #. source: Clears: %d
 #. Keep placeholders unchanged: %d
 msgid "TOOLTIP.run_clears"
-msgstr "通關數:%.d"
+msgstr "消滅數:%.d"
 
 #. Stat tooltip
 #. source: Biggest hit: %.0f
@@ -5230,7 +5230,7 @@ msgstr "傳奇配置.exe"
 #. Desktop icon tooltip
 #. source: MorganAV.pgi
 msgid "CLICKABLE.filename.morgan_av"
-msgstr ""
+msgstr "摩根防毒軟體.pgi"
 
 #. Run stats panel row
 #. source: Difficulty
