@@ -702,7 +702,7 @@ msgstr "靜止畫面"
 #. Plugin - description (still_frame)
 #. source: Increase Weapon Damage +5% per second while not moving, up to +15% per stack.
 msgid "PLUGIN.still_frame.description"
-msgstr "當您靜止不動時每秒+5%武器傷害，可堆疊到+15%"
+msgstr "當你靜止不動時每秒+5%武器傷害，可堆疊到+15%"
 
 #. Plugin - name (shzip_license)
 #. source: SHZip License
@@ -828,7 +828,7 @@ msgstr "獎勵洩漏"
 #. Plugin - description (reward_leak)
 #. source: Spawn 4 CLICK-ME or Memory Leak files around you.
 msgid "PLUGIN.reward_leak.description"
-msgstr "生成4個CLICK-ME或Memory Leak在您周圍"
+msgstr "生成4個CLICK-ME或Memory Leak在你周圍"
 
 #. Plugin - name (expansion_slot)
 #. source: Expansion Slot
@@ -967,7 +967,7 @@ msgstr "第五協定"
 #. source: You don't have to do this. 64 Beanz per Safe Folder opened if you do though.
 msgid "PROTOCOL.protocol_5.description"
 msgstr ""
-"您不必挑戰這個難度 不過，如果您選擇挑戰，每開啟一個安全資料夾可獲得 64 "
+"你不必挑戰這個難度 不過，如果你選擇挑戰，每開啟一個安全資料夾可獲得 64 "
 "Beanz."
 
 #. Stat display - name (upgrade_player_armor)
@@ -1642,7 +1642,7 @@ msgstr "非常大角錐"
 #. Upgrade card - description (weapon_cone)
 #. source: Orange traffic wedges stuck to you. They cook what they point at with Heat.
 msgid "UPGRADE.weapon_cone.description"
-msgstr "橘色交通錐黏在您身上，它們能灼燒指向的目標"
+msgstr "橘色交通錐黏在你身上，它們能灼燒指向的目標"
 
 #. Upgrade card - name (weapon_blatand)
 #. source: Blåtand
@@ -1747,7 +1747,7 @@ msgstr "隨機BOSS"
 #. BOSS
 #. source: Fight a boss you have not met yet.
 msgid "BOSS.random.tooltip_unmet"
-msgstr "對決一位您尚未遇過的BOSS"
+msgstr "對決一位你尚未遇過的BOSS"
 
 #. BOSS
 #. source: Fight a random boss.
@@ -2052,7 +2052,7 @@ msgstr "將遊戲幀率限制在與螢幕更新率相同，以防止畫面撕裂
 #. Settings menu
 #. source: Maximum frames per second. Unlimited uses your hardware's limit.
 msgid "SETTINGS.fps_cap_tip"
-msgstr "每秒最大幀數.無上限 受限於您的硬體限制"
+msgstr "每秒最大幀數.無上限 受限於你的硬體限制"
 
 #. Settings menu
 #. source: Strength of the CRT scanline filter over the screen.
@@ -2364,8 +2364,8 @@ msgstr "登入"
 #. source: To begin, click your user name.\nAfter you log on, you can change profiles.\nJust click on your name at the top of the menu.
 msgid "UI.login_prompt"
 msgstr ""
-"首先，點擊您的用戶名. \n"
-"登入後，您可以變更個人資料. \n"
+"首先，點擊你的用戶名. \n"
+"登入後，你可以變更個人資料. \n"
 "只需點擊選單頂部的使用者名稱即可"
 
 #. Login screen - turn off computer button
@@ -2725,7 +2725,7 @@ msgstr "類別"
 #. Virry blurb - statistics mode
 #. source: Your run records live in these sheet. Switch to Tasks for unlocks.
 msgid "UI.task_virry_stats"
-msgstr "您的遊玩記錄保存在此表格中.切換到「任務」頁面可解鎖更多內容"
+msgstr "你的遊玩記錄保存在此表格中.切換到「任務」頁面可解鎖更多內容"
 
 #. Virry blurb - weapons tasks
 #. source: Finish a weapon task, then purchase it in Add/Remove Unlocks.
@@ -2736,7 +2736,7 @@ msgstr "完成武器任務後，即可在「新增/移除解鎖」中購買"
 #. source: Cursor Classes change how you fight. Unlock one, then purchase it in Add/Remove Unlocks.
 msgid "UI.task_virry_classes"
 msgstr ""
-"鼠標類型會改變您的戰鬥方式.解鎖一個類型，然後在「新增/移除解鎖」中購買它"
+"鼠標類型會改變你的戰鬥方式.解鎖一個類型，然後在「新增/移除解鎖」中購買它"
 
 #. Virry blurb - plugin tasks
 #. source: Plugins add passive power that can be obtain by opening Installers. Complete the task, then purchase them in Add/Remove Unlocks.
@@ -2775,7 +2775,7 @@ msgstr "一般里程碑.主要獎勵為 Beanz"
 #. Virry blurb - claimable rewards waiting
 #. source: Nice work! Claim your Beanz rewards by clicking a blue row.
 msgid "UI.task_virry_claimable"
-msgstr "幹得漂亮 !點擊藍色行即可領取您的 Beanz 獎勵"
+msgstr "幹得漂亮 !點擊藍色行即可領取你的 Beanz 獎勵"
 
 #. Virry blurb - leftover task sheet
 #. source: Odds and ends that don't sit on the other task sheets.
@@ -3008,7 +3008,7 @@ msgstr "最愛的武器"
 #. Profile stats - favourite weapon tooltip
 #. source: Weapon you've spent the most battle time using.
 msgid "UI.stat_favourite_weapon_desc"
-msgstr "您在戰鬥中使用時間最長的武器"
+msgstr "你在戰鬥中使用時間最長的武器"
 
 #. Profile stats - tasks completed
 #. source: Tasks Completed
@@ -3576,14 +3576,14 @@ msgstr "金鑰不足:("
 #. source: Your first of four weapons for the run. You'll pick more as you level up.
 msgid "UI.starter_help_weapons"
 msgstr ""
-"這是您本次冒險中獲得的四件武器中的第一件\n"
-"隨著等級提升，您可以獲得更多武器"
+"這是你本次冒險中獲得的四件武器中的第一件\n"
+"隨著等級提升，你可以獲得更多武器"
 
 #. Starter folder cursor class category help
 #. source: Cursor Classes set your base stats. All upgrades multiply on top of those.
 msgid "UI.starter_help_cursor"
 msgstr ""
-"鼠標類型決定您的基礎屬性\n"
+"鼠標類型決定你的基礎屬性\n"
 "所有升級都會在此基礎上進行倍率加成"
 
 #. Starter folder difficulty category help
@@ -3620,7 +3620,7 @@ msgid "UI.tutorial_1_body"
 msgstr ""
 "歡迎來到 {game}  ! \n"
 "\n"
-"我是 Virry，我將帶您了解一些遊戲的基本玩法"
+"我是 Virry，我將帶你了解一些遊戲的基本玩法"
 
 #. Tutorial page 2 - {move} {click} {drag} become input icons
 #. source: First, let's get moving.\n\nUse {move} to move around the screen.\n\nClick with {click}, and don't forget to double-click to open files.\n\nYou can also hold {drag} to drag files and move them around the folder.
@@ -3633,36 +3633,36 @@ msgstr ""
 "\n"
 "使用 {click} 點擊，不要忘記雙擊以開啟檔案. \n"
 "\n"
-"您也可以按住 {drag} 拖曳檔案並在資料夾中移動它們."
+"你也可以按住 {drag} 拖曳檔案並在資料夾中移動它們."
 
 #. Tutorial page 3 - class, protocol, policies
 #. source: To get started you can pick a {class} and {difficulty}.\n\nFor now let's pick the {default} Cursor, more will unlock as you play.\n\nChoose Protocol I-III as your {difficulty}.\n\nCompleting a Protocol will unlock {policies} which give you additional challenges.\n\nGo ahead and select your {class} and {difficulty} now!
 #. Keep placeholders unchanged: {class}, {difficulty}, {default}, {policies}
 msgid "UI.tutorial_3_body"
 msgstr ""
-"首先，您可以選擇一個類別 (class) 和一個難度 (difficulty). \n"
+"首先，你可以選擇一個類別 (class) 和一個難度 (difficulty). \n"
 "\n"
 "現在，我們選擇預設鼠標 (default Cursor)，隨著遊戲的進行，更多鼠標將會解"
 "鎖. \n"
 "\n"
-"選擇協議一到三 作為您的難度 (difficulty). \n"
+"選擇協議一到三 作為你的難度 (difficulty). \n"
 "\n"
-"完成協議將解鎖原則 (policies)，這些原則會為您帶來額外的挑戰. \n"
+"完成協議將解鎖原則 (policies)，這些原則會為你帶來額外的挑戰. \n"
 "\n"
-"現在就選擇您的類別 (class) 和難度 (difficulty) 吧  !"
+"現在就選擇你的類別 (class) 和難度 (difficulty) 吧  !"
 
 #. Tutorial page 4 - {drivers}
 #. source: You can select one Starter Weapon to begin.\n\nProgress through the run and level up to add more weapons to your build.\n\nWhen you level up, you can also choose between weapon and player upgrades to increase your stats.\n\nWhen your weapon reaches certain levels, you unlock {drivers} which give bespoke upgrades.
 #. Keep placeholders unchanged: {drivers}
 msgid "UI.tutorial_4_body"
 msgstr ""
-"您可以選擇一把初始武器開始遊戲.\n"
+"你可以選擇一把初始武器開始遊戲.\n"
 "\n"
-"在遊戲過程中不斷升級，即可為您的裝備添加更多武器. \n"
+"在遊戲過程中不斷升級，即可為你的裝備添加更多武器. \n"
 "\n"
-"升級時，您也可以選擇武器或角色升級來提升您的屬性. \n"
+"升級時，你也可以選擇武器或角色升級來提升你的屬性. \n"
 "\n"
-"當您的武器達到特定等級時，您將解鎖 {drivers}，獲得專屬升級."
+"當你的武器達到特定等級時，你將解鎖 {drivers}，獲得專屬升級."
 
 #. Tutorial page 5 - {safe}
 #. source: The objective of the game is to survive.\n\nThere are 5 rounds of 5 minutes. Get to the {safe} at the end of each round to move on.
@@ -3701,7 +3701,7 @@ msgid "UI.tutorial_8_body"
 msgstr ""
 "目前就這些  ! \n"
 "\n"
-"選擇您的第一件武器，開始遊戲，努力生存，盡情享受吧 :)"
+"選擇你的第一件武器，開始遊戲，努力生存，盡情享受吧 :)"
 
 #. Plus! cleared. %s is the elite name, %s is the dropped filename
 #. source: %s cleared, %s dropped.
@@ -3887,7 +3887,7 @@ msgstr ""
 "\n"
 "CODE_HALTED: SYSTEM_COHERENCE_FAILURE\n"
 "\n"
-"如果這是您第一次看到此終止畫面，請重新啟動系統.\n"
+"如果這是你第一次看到此終止畫面，請重新啟動系統.\n"
 "如果此畫面再次出現，內部模組可能已遭到破壞.\n"
 "異常行為可能表示記憶體損毀、\n"
 "封包注入無效，或未經授權的腳本正在執行..\n"
@@ -3934,7 +3934,7 @@ msgstr "清除區域封存庫"
 #. Clearzone plugin pick window title
 #. source: Clearzone - Pick Your Plugin
 msgid "UI.rar_plugin_title"
-msgstr "清除區域 - 選擇您的插件"
+msgstr "清除區域 - 選擇你的插件"
 
 #. Clearzone archive clear count
 #. source: %d / %d
@@ -4274,7 +4274,7 @@ msgstr "{boss} 文件"
 #. source: Lets you choose {boss} at the end of a run instead of only Random Boss.
 #. Keep placeholders unchanged: {boss}
 msgid "UI.unlock_boss_choice_desc"
-msgstr "允許您在遊戲結束時選擇 {boss}，而不是只能選擇隨機首領"
+msgstr "允許你在遊戲結束時選擇 {boss}，而不是只能選擇隨機首領"
 
 #. Unlock requirement - land a hit of N damage
 #. source: Land a single hit of {amount} damage
@@ -4380,7 +4380,7 @@ msgstr "財務經理"
 #. Unlock description - Ethanol 130% safe file
 #. source: Pay Coin to copy a random plugin you already have installed.
 msgid "UI.unlock_file_ethanol_desc"
-msgstr "支付金幣複製一個您已安裝的隨機插件"
+msgstr "支付金幣複製一個你已安裝的隨機插件"
 
 #. Unlock reward - Ethanol 130% name
 #. source: Ethanol 130%
@@ -4764,7 +4764,7 @@ msgstr "立即恢復50%最大生命值"
 #. Health Check Pro program subtitle
 #. source: Help protect your PC
 msgid "UI.health_check_pro_banner"
-msgstr "幫助保護您的電腦"
+msgstr "幫助保護你的電腦"
 
 #. Health Check Pro file-upgrade card title
 #. source: Health Check Files
@@ -4896,12 +4896,12 @@ msgstr "待處理"
 #. Finance Manager plus button tooltip
 #. source: Add Coin to your pending deposit.
 msgid "UI.stock_trader_plus_tooltip"
-msgstr "將金幣加到您的待存款項中"
+msgstr "將金幣加到你的待存款項中"
 
 #. Finance Manager minus button tooltip
 #. source: Reduce your pending deposit.
 msgid "UI.stock_trader_minus_tooltip"
-msgstr "減少您的待存款項"
+msgstr "減少你的待存款項"
 
 #. Finance Manager all-in button tooltip
 #. source: Set pending deposit to all Coin on hand.
@@ -4921,12 +4921,12 @@ msgstr "待確認的金幣交易"
 #. Finance Manager withdraw button tooltip
 #. source: Cash out your current investment to Coin.
 msgid "UI.stock_trader_withdraw_tooltip"
-msgstr "將您目前的投資全兌現成金幣"
+msgstr "將你目前的投資全兌現成金幣"
 
 #. Ethanol 130% window explanation
 #. source: Pay Coin to roll a copy of a random plugin you already have installed.
 msgid "UI.ethanol_body"
-msgstr "支付金幣來複製隨機一項您已安裝的插件"
+msgstr "支付金幣來複製隨機一項你已安裝的插件"
 
 #. Ethanol 130% copy button
 #. source: Copy: {cost} Coin
@@ -6084,7 +6084,7 @@ msgstr "上行流量"
 #. Weapon driver / overclock card - description (satellite_uplink)
 #. source: Dishes follow you for their lifetime.
 msgid "DRIVER.satellite_uplink.description"
-msgstr "微波天線將跟著您直到其本身時間到"
+msgstr "微波天線將跟著你直到其本身時間到"
 
 #. Weapon driver / overclock card - name (scimitar_dragon)
 #. source: Weapon Poison
@@ -6226,7 +6226,7 @@ msgstr "內存下載器專業版(合法)"
 #. Scene label
 #. screens: download_ram_window.tscn
 msgid "Your RAM is now downloading..."
-msgstr "您的內存正在下載…"
+msgstr "你的內存正在下載…"
 
 #. Scene label
 #. screens: keygen_window.tscn
@@ -6241,7 +6241,7 @@ msgstr "產生金鑰"
 #. Scene label
 #. screens: lem_upgrade_screen.tscn
 msgid "LemWire 4.7 - Pick Your Download"
-msgstr "LemWire 4.7 - 選擇您想下載的"
+msgstr "LemWire 4.7 - 選擇你想下載的"
 
 #. Scene label
 #. screens: lem_window.tscn
@@ -6291,7 +6291,7 @@ msgstr "免費AVDs..."
 #. Scene label
 #. screens: spam_ad_5.tscn
 msgid "BIG BIG WINNER THATS YOU!!!"
-msgstr "贏家就是您 ! ! !"
+msgstr "贏家就是你 ! ! !"
 
 #. Scene label
 #. screens: spam_ad_6.tscn
@@ -6301,7 +6301,7 @@ msgstr "一鍵即可獲得便宜印表機"
 #. Scene label
 #. screens: spam_ad_7.tscn
 msgid "Before you go, did you kno.."
-msgstr "在您離開前，您知道.."
+msgstr "在你離開前，你知道.."
 
 #. Scene label
 #. screens: spam_ad_8.tscn
@@ -6391,7 +6391,7 @@ msgstr "武器..."
 #. Scene label
 #. screens: starter_folder.tscn
 msgid "Great, now just pick a weapon you want to start with."
-msgstr "很好，現在選擇一樣您想要的武器."
+msgstr "很好，現在選擇一樣你想要的武器."
 
 #. Scene label
 #. screens: starter_folder.tscn
@@ -6452,7 +6452,7 @@ msgid ""
 "If you had fun during this demo be sure to give it a wishlist or follow on "
 "Steam - there's so much more to come!"
 msgstr ""
-"您做到了 ! 我為您感到驕傲 !我希望您玩得開心.\n"
+"你做到了 ! 我為你感到驕傲 !我希望你玩得開心.\n"
 "\n"
 "然而，我很遺憾，這個勝利畫面如此乏味且毫無新意. 你值得更好的，你也會得到更"
 "好的- 在完整版裡.\n"
@@ -6460,7 +6460,7 @@ msgstr ""
 "同時， 盡情嘗試一些更高難度的模式吧， 去使用那些Beanz升級並嘗試不同的組"
 "合.\n"
 "\n"
-"如果您喜歡這次試玩，記得把它加入願望單或在Steam上關注它 - 還有更多精彩內容"
+"如果你喜歡這次試玩，記得把它加入願望單或在Steam上關注它 - 還有更多精彩內容"
 "即將呈現 !"
 
 #. Scene label
@@ -6564,9 +6564,9 @@ msgid ""
 "enjoy and have a great day <3\n"
 "shaun"
 msgstr ""
-"非常感謝您的參與. 這對我來說很重要.\n"
+"非常感謝你的參與. 這對我來說很重要.\n"
 "享受遊戲\n"
-"祝您有個美好的一天\n"
+"祝你有個美好的一天\n"
 "<3\n"
 "shaun"
 
