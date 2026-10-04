@@ -702,7 +702,7 @@ msgstr "靜止畫面"
 #. Plugin - description (still_frame)
 #. source: Increase Weapon Damage +5% per second while not moving, up to +15% per stack.
 msgid "PLUGIN.still_frame.description"
-msgstr "當你靜止不動時每秒+5%武器傷害，可堆疊到+15%"
+msgstr "當您靜止不動時每秒+5%武器傷害，可堆疊到+15%"
 
 #. Plugin - name (shzip_license)
 #. source: SHZip License
@@ -967,7 +967,7 @@ msgstr "第五協定"
 #. source: You don't have to do this. 64 Beanz per Safe Folder opened if you do though.
 msgid "PROTOCOL.protocol_5.description"
 msgstr ""
-"你不必挑戰這個難度 不過，如果你選擇挑戰，每開啟一個安全資料夾可獲得 64 "
+"您不必挑戰這個難度 不過，如果您選擇挑戰，每開啟一個安全資料夾可獲得 64 "
 "Beanz."
 
 #. Stat display - name (upgrade_player_armor)
@@ -1642,7 +1642,7 @@ msgstr "非常大角錐"
 #. Upgrade card - description (weapon_cone)
 #. source: Orange traffic wedges stuck to you. They cook what they point at with Heat.
 msgid "UPGRADE.weapon_cone.description"
-msgstr "橘色交通錐黏在你身上，它們能灼燒指向的目標"
+msgstr "橘色交通錐黏在您身上，它們能灼燒指向的目標"
 
 #. Upgrade card - name (weapon_blatand)
 #. source: Blåtand
@@ -1747,7 +1747,7 @@ msgstr "隨機BOSS"
 #. BOSS
 #. source: Fight a boss you have not met yet.
 msgid "BOSS.random.tooltip_unmet"
-msgstr "對決一位你尚未遇過的BOSS"
+msgstr "對決一位您尚未遇過的BOSS"
 
 #. BOSS
 #. source: Fight a random boss.
@@ -2736,7 +2736,7 @@ msgstr "完成武器任務後，即可在「新增/移除解鎖」中購買"
 #. source: Cursor Classes change how you fight. Unlock one, then purchase it in Add/Remove Unlocks.
 msgid "UI.task_virry_classes"
 msgstr ""
-"鼠標類型會改變你的戰鬥方式.解鎖一個職業，然後在「新增/移除解鎖」中購買它"
+"鼠標類型會改變您的戰鬥方式.解鎖一個類型，然後在「新增/移除解鎖」中購買它"
 
 #. Virry blurb - plugin tasks
 #. source: Plugins add passive power that can be obtain by opening Installers. Complete the task, then purchase them in Add/Remove Unlocks.
@@ -3583,7 +3583,7 @@ msgstr ""
 #. source: Cursor Classes set your base stats. All upgrades multiply on top of those.
 msgid "UI.starter_help_cursor"
 msgstr ""
-"鼠標類型決定你的基礎屬性\n"
+"鼠標類型決定您的基礎屬性\n"
 "所有升級都會在此基礎上進行倍率加成"
 
 #. Starter folder difficulty category help
@@ -3620,7 +3620,7 @@ msgid "UI.tutorial_1_body"
 msgstr ""
 "歡迎來到 {game}  ! \n"
 "\n"
-"我是 Virry，我將帶你了解一些遊戲的基本玩法"
+"我是 Virry，我將帶您了解一些遊戲的基本玩法"
 
 #. Tutorial page 2 - {move} {click} {drag} become input icons
 #. source: First, let's get moving.\n\nUse {move} to move around the screen.\n\nClick with {click}, and don't forget to double-click to open files.\n\nYou can also hold {drag} to drag files and move them around the folder.
@@ -3701,7 +3701,7 @@ msgid "UI.tutorial_8_body"
 msgstr ""
 "目前就這些  ! \n"
 "\n"
-"選擇你的第一件武器，開始遊戲，努力生存，盡情享受吧 :)"
+"選擇您的第一件武器，開始遊戲，努力生存，盡情享受吧 :)"
 
 #. Plus! cleared. %s is the elite name, %s is the dropped filename
 #. source: %s cleared, %s dropped.
@@ -3887,7 +3887,7 @@ msgstr ""
 "\n"
 "CODE_HALTED: SYSTEM_COHERENCE_FAILURE\n"
 "\n"
-"如果這是你第一次看到此終止畫面，請重新啟動系統.\n"
+"如果這是您第一次看到此終止畫面，請重新啟動系統.\n"
 "如果此畫面再次出現，內部模組可能已遭到破壞.\n"
 "異常行為可能表示記憶體損毀、\n"
 "封包注入無效，或未經授權的腳本正在執行..\n"
@@ -6391,7 +6391,7 @@ msgstr "武器..."
 #. Scene label
 #. screens: starter_folder.tscn
 msgid "Great, now just pick a weapon you want to start with."
-msgstr "很好，現在選擇一樣你想要的武器."
+msgstr "很好，現在選擇一樣您想要的武器."
 
 #. Scene label
 #. screens: starter_folder.tscn
