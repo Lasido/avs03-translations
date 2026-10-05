@@ -22,7 +22,7 @@ msgid "CLASS.brick.description"
 msgstr ""
 "+40最大生命值\n"
 "+12護甲\n"
-"鼠標速度乘0.8x\n"
+"游標移速乘0.8x\n"
 "武器傷害乘0.85x\n"
 "受傷時武器傷害乘1.1x(持續8秒，可堆疊3層)"
 
@@ -36,7 +36,7 @@ msgstr "預設"
 msgid "CLASS.default.description"
 msgstr ""
 "沒有等級額外獎勵或懲罰\n"
-"就只是個鼠標"
+"就只是個游標"
 
 #. Class select - name (null)
 #. source: Null
@@ -61,11 +61,11 @@ msgstr "向量"
 #. source: Multiply Cursor Speed 1.25x.\nAdd +15 Packet Loss.\nReduce Max HP -25.\nMultiply Weapon Damage 0.9x.\nMultiply Cursor Speed 1.25x and Refresh Speed 1.2x on Packet Loss (Lasts 4s).
 msgid "CLASS.vector.description"
 msgstr ""
-"鼠標速度乘1.25x\n"
+"游標移速乘1.25x\n"
 "掉封包+15\n"
 "-25最大生命值\n"
 "武器傷害乘0.9x\n"
-"掉包時鼠標速度乘1.25x，刷新速度乘1.2x(持續4秒)"
+"掉包時游標速度乘1.25x，刷新速度乘1.2x(持續4秒)"
 
 #. Class select - name (breakpoint)
 #. source: Breakpoint
@@ -79,7 +79,7 @@ msgstr ""
 "暴擊機率+12%\n"
 "暴擊傷害乘1.25x\n"
 "-15最大生命值\n"
-"鼠標一速乘0.9x\n"
+"游標移速乘0.9x\n"
 "武器傷害乘0.92x"
 
 #. Class select - name (thread)
@@ -165,12 +165,12 @@ msgstr "每級的暴擊傷害額外+2%"
 #. Meta upgrade menu - name (cursor_speed)
 #. source: Cursor Speed
 msgid "META.cursor_speed.name"
-msgstr "鼠標移速"
+msgstr "游標移速"
 
 #. Meta upgrade menu - description (cursor_speed)
 #. source: Multiply Cursor Speed by an extra +1% per Rank.
 msgid "META.cursor_speed.description"
-msgstr "每級的鼠標移動速度額外+1%"
+msgstr "每級的游標移動速度額外+1%"
 
 #. Meta upgrade menu - description (exp_gain)
 #. source: Multiply EXP Gain by an extra +2% per Rank.
@@ -349,12 +349,12 @@ msgstr "暴擊機率乘1.1x"
 #. Plugin - name (cursor_speed_boost)
 #. source: Cursor Speed Boost
 msgid "PLUGIN.cursor_speed_boost.name"
-msgstr "鼠標移速提升"
+msgstr "游標移速提升"
 
 #. Plugin - description (cursor_speed_boost)
 #. source: Multiply Cursor Speed 1.1x
 msgid "PLUGIN.cursor_speed_boost.description"
-msgstr "鼠標移速乘1.1x"
+msgstr "游標移速乘1.1x"
 
 #. Plugin - name (cursor_speed_damage)
 #. source: Critical Battery
@@ -365,8 +365,8 @@ msgstr "臨界電量"
 #. source: Increase Cursor Speed +10%.\nIncrease Cursor Speed +30% when taking Damage (Lasts 10s).
 msgid "PLUGIN.cursor_speed_damage.description"
 msgstr ""
-"鼠標移速+10%\n"
-"當受傷時鼠標移速+30%(持續10秒)"
+"游標移速+10%\n"
+"當受傷時游標移速+30%(持續10秒)"
 
 #. Plugin - name (damage_boost)
 #. source: Weapon Damage Boost
@@ -586,7 +586,7 @@ msgstr "粗獷且強大"
 msgid "PLUGIN.slow_but_strong.description"
 msgstr ""
 "武器傷害乘1.2x\n"
-"鼠標移速-10%"
+"游標移速-10%"
 
 #. Plugin - name (smart_recovery)
 #. source: Smart Recovery
@@ -724,7 +724,7 @@ msgstr "刷新超頻"
 msgid "PLUGIN.refresh_overclock.description"
 msgstr ""
 "刷新速度+50%\n"
-"鼠標移速-15%"
+"游標移速-15%"
 
 #. Plugin - name (wallet_damage)
 #. source: Wallet Damage
@@ -1121,12 +1121,12 @@ msgstr "提高所有武器的冷卻時間(指數級)"
 #. Stat display - name (upgrade_player_speed)
 #. source: Cursor Speed
 msgid "STAT.upgrade_player_speed.name"
-msgstr "鼠標速度"
+msgstr "游標移速"
 
 #. Stat display - description (upgrade_player_speed)
 #. source: Multiplies the player movement speed.
 msgid "STAT.upgrade_player_speed.description"
-msgstr "提高玩家控制鼠標的移速"
+msgstr "提高玩家控制游標的移速"
 
 #. Stat display - name (upgrade_player_weap_amount)
 #. source: Weapon Amount
@@ -1557,7 +1557,7 @@ msgstr "彎刀"
 #. source: Slashes above and below the cursor. Extra amount adds alternating slashes.
 msgid "UPGRADE.weapon_scimitar.description"
 msgstr ""
-"在鼠標的上方和下方進行斬擊\n"
+"在游標的上方和下方進行斬擊\n"
 "額外數量會增加交替斬擊"
 
 #. Upgrade card - name (weapon_sniper)
@@ -1662,7 +1662,7 @@ msgstr "輸出設備"
 #. Upgrade card - description (weapon_modem)
 #. source: Blasts concentric handshake rings outward from the cursor.
 msgid "UPGRADE.weapon_modem.description"
-msgstr "從鼠標向外發射同心圓狀的衝擊波"
+msgstr "從游標向外發射同心圓狀的衝擊波"
 
 #. Weapon metadata
 #. source: FPS counter
@@ -2022,7 +2022,7 @@ msgstr "動畫速度"
 #. Settings menu
 #. source: Menu Cursor Speed
 msgid "SETTINGS.menu_cursor_speed"
-msgstr "選單鼠標速度"
+msgstr "選單游標速度"
 
 #. Settings menu
 #. source: Run as Administrator
@@ -2092,13 +2092,13 @@ msgstr "UI動畫和過渡效果播放速度"
 #. Settings menu
 #. source: How fast the cursor moves with the stick or keys in menus.
 msgid "SETTINGS.menu_cursor_speed_tip"
-msgstr "在選單中使用搖桿或鍵盤移動鼠標的速度"
+msgstr "在選單中使用搖桿或鍵盤移動游標的速度"
 
 #. Settings menu
 #. source: Control your cursor with the mouse in Safe Folders. Battle Folders always use WASD or the left stick.
 msgid "SETTINGS.admin_cursor_tip"
 msgstr ""
-"在安全資料夾中，使用滑鼠控制鼠標 \n"
+"在安全資料夾中，使用滑鼠控制游標 \n"
 "在戰鬥資料夾中，使用 WASD 鍵或左鍵"
 
 #. Settings menu
@@ -2736,7 +2736,7 @@ msgstr "完成武器任務後，即可在「新增/移除解鎖」中購買"
 #. source: Cursor Classes change how you fight. Unlock one, then purchase it in Add/Remove Unlocks.
 msgid "UI.task_virry_classes"
 msgstr ""
-"鼠標類型會改變你的戰鬥方式.解鎖一個類型，然後在「新增/移除解鎖」中購買它"
+"游標類型會改變你的戰鬥方式.解鎖一個類型，然後在「新增/移除解鎖」中購買它"
 
 #. Virry blurb - plugin tasks
 #. source: Plugins add passive power that can be obtain by opening Installers. Complete the task, then purchase them in Add/Remove Unlocks.
@@ -3046,7 +3046,7 @@ msgstr "使用此武器擊殺的敵人數量"
 #. Profile stats - class sheet row tooltip
 #. source: Runs completed with this Cursor Class.
 msgid "UI.stat_class_row_desc"
-msgstr "使用此鼠標類型的通關次數"
+msgstr "使用此游標類型的通關次數"
 
 #. Profile stats - policy sheet row tooltip
 #. source: Runs completed with this Policy.
@@ -3091,7 +3091,7 @@ msgstr "敵人"
 #. Profile stats - cursor class sheet tab
 #. source: Cursors
 msgid "UI.stat_sheet_classes"
-msgstr "鼠標"
+msgstr "游標"
 
 #. Profile stats - policy completions sheet tab
 #. source: Policies
@@ -3179,7 +3179,7 @@ msgstr "解鎖新武器，即可在遊戲開始時使用，並在遊戲過程中
 #. Add/Remove Unlocks - cursors tab intro
 #. source: Unlock new Cursor Classes to start with.
 msgid "UI.features_store_intro_cursors"
-msgstr "解鎖新的鼠標類型以開始遊戲"
+msgstr "解鎖新的游標類型以開始遊戲"
 
 #. Add/Remove Unlocks - plugins tab intro
 #. source: Unlock new Plugins to install during runs.
@@ -3204,7 +3204,7 @@ msgstr "武器"
 #. UI (script-driven)
 #. source: Cursors
 msgid "UI.store_group_cursors"
-msgstr "鼠標"
+msgstr "游標"
 
 #. UI (script-driven)
 #. source: Plugins
@@ -3234,7 +3234,7 @@ msgstr "其他"
 #. Tasks screen - cursor class unlock category
 #. source: Cursors
 msgid "UI.task_group_classes"
-msgstr "鼠標"
+msgstr "游標"
 
 #. Tasks screen - weapon driver unlock category
 #. source: Drivers
@@ -3269,7 +3269,7 @@ msgstr "武器"
 #. Task tooltip type - singular
 #. source: Cursor Class
 msgid "UI.task_group_singular_class"
-msgstr "鼠標類型"
+msgstr "游標類型"
 
 #. Task tooltip type - singular
 #. source: Plugin
@@ -3431,7 +3431,7 @@ msgstr "未完成"
 #. source: Control your cursor with the mouse in Safe Folders.[br]Battle Folders always use WASD or the left stick.
 msgid "UI.admin_mouse_tooltip"
 msgstr ""
-"在安全性資料夾中，可使用滑鼠控制鼠標. [br]但在戰鬥資料夾中，請務必使用 "
+"在安全性資料夾中，可使用滑鼠控制游標. [br]但在戰鬥資料夾中，請務必使用 "
 "WASD 或滑鼠左鍵"
 
 #. UI (script-driven)
@@ -3583,7 +3583,7 @@ msgstr ""
 #. source: Cursor Classes set your base stats. All upgrades multiply on top of those.
 msgid "UI.starter_help_cursor"
 msgstr ""
-"鼠標類型決定你的基礎屬性\n"
+"游標類型決定你的基礎屬性\n"
 "所有升級都會在此基礎上進行倍率加成"
 
 #. Starter folder difficulty category help
@@ -3642,7 +3642,7 @@ msgid "UI.tutorial_3_body"
 msgstr ""
 "首先，你可以選擇一個類別 (class) 和一個難度 (difficulty). \n"
 "\n"
-"現在，我們選擇預設鼠標 (default Cursor)，隨著遊戲的進行，更多鼠標將會解"
+"現在，我們選擇預設游標 (default Cursor)，隨著遊戲的進行，更多游標將會解"
 "鎖. \n"
 "\n"
 "選擇協議一到三 作為你的難度 (difficulty). \n"
@@ -4204,7 +4204,7 @@ msgstr "處理速度達到 2.00×"
 #. Unlock requirement - reach 2x Cursor Speed
 #. source: Reach 2.00× Cursor Speed
 msgid "UI.unlock_reach_cursor_2x"
-msgstr "鼠標速度達到 2.00×"
+msgstr "游標移速達到 2.00×"
 
 #. Unlock requirement - skip or delete N installers
 #. source: Skip or delete {amount} plugins in an Installer
@@ -4320,7 +4320,7 @@ msgstr "單輪收集 {amount} 枚金幣"
 #. UI (script-driven)
 #. source: Temporarily boost cursor speed for a short burst.
 msgid "UI.unlock_widget_nos_desc"
-msgstr "暫時提升鼠標速度"
+msgstr "暫時提升游標速度"
 
 #. UI (script-driven)
 #. source: N2O
@@ -5367,7 +5367,7 @@ msgstr "類型"
 #. Run stats panel row
 #. source: Cursor class chosen for this run.
 msgid "RUNSTAT.class_desc"
-msgstr "本輪選擇的鼠標類型"
+msgstr "本輪選擇的游標類型"
 
 #. Run stats panel row
 #. source: Policy
@@ -5527,7 +5527,7 @@ msgstr "健康檢查"
 
 #. Scene label
 msgid "Pointer Trails"
-msgstr "鼠標特效"
+msgstr "游標特效"
 
 #. Scene label
 msgid "Download More RAM"
@@ -6251,7 +6251,7 @@ msgstr "LemWire 4.7"
 #. Scene label
 #. screens: lem_window.tscn
 msgid "Searching: cursor upgrades"
-msgstr "搜尋:鼠標升級"
+msgstr "搜尋:游標升級"
 
 #. Scene label
 #. screens: lem_window.tscn
@@ -6552,7 +6552,7 @@ msgstr ""
 "- 更多武器\n"
 "- 更多敵人\n"
 "- 更多BOSS\n"
-"- 更多鼠標類型\n"
+"- 更多游標類型\n"
 "- 桌布\n"
 "- 武器進化\n"
 "- 還有更多"
