@@ -6028,7 +6028,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (orchestra_taskkill)
 #. source: End Process
 msgid "DRIVER.orchestra_taskkill.name"
-msgstr "結束製程"
+msgstr "結束程序"
 
 #. Weapon driver / overclock card - description (orchestra_taskkill)
 #. source: Increase execute chance.
