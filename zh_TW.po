@@ -250,7 +250,7 @@ msgstr "護甲強化"
 #. Plugin - description (armor_boost)
 #. source: Add +5 Armo(u)r.
 msgid "PLUGIN.armor_boost.description"
-msgstr "加5護甲"
+msgstr "+5護甲"
 
 #. Plugin - name (armor_damage_trigger)
 #. source: Hardware IRQ
@@ -261,7 +261,7 @@ msgstr "硬體中斷請求"
 #. source: Add +5 Armo(u)r.\nAdd +25 Packet Loss when taking Damage (Lasts 10s).
 msgid "PLUGIN.armor_damage_trigger.description"
 msgstr ""
-"加5護甲\n"
+"+5護甲\n"
 "當受到傷害時+25掉包(持續10秒)"
 
 #. Plugin - name (armor_missing_hp)
@@ -1026,7 +1026,7 @@ msgid "STAT.upgrade_player_dodge.name"
 msgstr "掉封包"
 
 #. Stat display - description (upgrade_player_dodge)
-#. source: Chance to dogde all incoming Damage. (Exponential)
+#. source: Chance to dodge all incoming Damage. (Exponential)
 msgid "STAT.upgrade_player_dodge.description"
 msgstr "有機率躲避所有受到的傷害(指數級)"
 
@@ -1064,7 +1064,7 @@ msgid "STAT.upgrade_player_luck.name"
 msgstr "幸運"
 
 #. Stat display - description (upgrade_player_luck)
-#. source: Increases odds for better rolls, resulting in higher rarities amoung other benefits.
+#. source: Increases odds for better rolls, resulting in higher rarities among other benefits.
 msgid "STAT.upgrade_player_luck.description"
 msgstr "提高獲得更佳屬性的機率，從而獲得更高稀有度的物品，以及其他好處"
 
@@ -1640,7 +1640,7 @@ msgid "UPGRADE.weapon_cone.name"
 msgstr "非常大角錐"
 
 #. Upgrade card - description (weapon_cone)
-#. source: Orange traffic wedges stuck to you. They cook what they point at with Heat.
+#. source: Orange cones stuck to you. They cook what they point at with Heat.
 msgid "UPGRADE.weapon_cone.description"
 msgstr "橘色交通錐黏在你身上，它們能灼燒指向的目標"
 
@@ -1660,7 +1660,7 @@ msgid "UPGRADE.weapon_modem.name"
 msgstr "輸出設備"
 
 #. Upgrade card - description (weapon_modem)
-#. source: Blasts concentric handshake rings outward from the cursor.
+#. source: Blasts sound rings outward from the cursor.
 msgid "UPGRADE.weapon_modem.description"
 msgstr "從游標向外發射同心圓狀的衝擊波"
 
@@ -1695,7 +1695,7 @@ msgid "WEAPON.cruiser.spawn_noun"
 msgstr "標籤頁"
 
 #. Weapon metadata
-#. source: trap
+#. source: tab
 msgid "WEAPON.orchestra.spawn_noun"
 msgstr "標籤頁"
 
@@ -2010,9 +2010,19 @@ msgid "SETTINGS.music_volume"
 msgstr "音樂音量"
 
 #. Settings menu
+#. source: SFX Volume
+msgid "SETTINGS.sfx_volume"
+msgstr "音效音量"
+
+#. Settings menu
 #. source: Keygen Volume
 msgid "SETTINGS.keygen_volume"
 msgstr "金鑰產生器音量"
+
+#. Settings menu
+#. source: Main Menu Computer Sound
+msgid "SETTINGS.menu_computer_sound"
+msgstr "主選單電腦音效"
 
 #. Settings menu
 #. source: Animation Speed
@@ -2067,17 +2077,27 @@ msgstr "顯示或隱藏桌面周圍的顯示器邊框"
 #. Settings menu
 #. source: Overall volume for every sound in the game.
 msgid "SETTINGS.master_volume_tip"
-msgstr "遊戲中所有聲音的總音量"
+msgstr "遊戲中所有聲音的整體音量"
 
 #. Settings menu
 #. source: Volume for the soundtrack.
 msgid "SETTINGS.music_volume_tip"
-msgstr "原聲帶音樂音量"
+msgstr "背景音樂音量"
+
+#. Settings menu
+#. source: Volume for sound effects.
+msgid "SETTINGS.sfx_volume_tip"
+msgstr "聲音效果音量"
 
 #. Settings menu
 #. source: Volume for Keygen windows that play their own track.
 msgid "SETTINGS.keygen_volume_tip"
 msgstr "適用於播放自身音軌的金鑰產生器視窗的音量"
+
+#. Settings menu
+#. source: Play the computer humming sound on the main menu.
+msgid "SETTINGS.menu_computer_sound_tip"
+msgstr "播放主選單的電腦環境音"
 
 #. Settings menu
 #. source: Language for menus and in-game text.
@@ -2720,12 +2740,14 @@ msgstr "按已完成任務排序"
 #. Tasks footer - categories cycle label next to key icons
 #. source: Categories
 msgid "UI.task_hint_categories"
-msgstr "類別"
+msgstr "分類"
 
 #. Virry blurb - statistics mode
 #. source: Your run records live in these sheet. Switch to Tasks for unlocks.
 msgid "UI.task_virry_stats"
-msgstr "你的遊玩記錄保存在此表格中.切換到「任務」頁面可解鎖更多內容"
+msgstr ""
+"你的遊玩記錄保存在此表格中.\n"
+"切換到「任務」頁面可解鎖更多內容."
 
 #. Virry blurb - weapons tasks
 #. source: Finish a weapon task, then purchase it in Add/Remove Unlocks.
@@ -2736,41 +2758,50 @@ msgstr "完成武器任務後，即可在「新增/移除解鎖」中購買"
 #. source: Cursor Classes change how you fight. Unlock one, then purchase it in Add/Remove Unlocks.
 msgid "UI.task_virry_classes"
 msgstr ""
-"游標類型會改變你的戰鬥方式.解鎖一個類型，然後在「新增/移除解鎖」中購買它"
+"游標類型會改變你的戰鬥方式.\n"
+"解鎖一個類型，即可在「新增/移除解鎖」中購買它"
 
 #. Virry blurb - plugin tasks
 #. source: Plugins add passive power that can be obtain by opening Installers. Complete the task, then purchase them in Add/Remove Unlocks.
 msgid "UI.task_virry_plugins"
 msgstr ""
-"插件會增加被動能力，可透過開啟安裝程式取得.完成任務後，即可在「新增/移除解"
-"鎖」中購買"
+"插件會增加被動能力，可透過開啟安裝程式取得.\n"
+"完成任務後，即可在「新增/移除解鎖」中購買"
 
 #. Virry blurb - weapon driver tasks
 #. source: Weapon Drivers upgrade a weapon's with unique additions. When unlocked reach levels 8, 16 and 24 to obtain them.
 msgid "UI.task_virry_drivers"
 msgstr ""
-"武器驅動模組可以為武器升級獨特的附加組件.解鎖後，分別達到 8 級、16 級和 24 "
-"級即可獲得這些組件"
+"武器驅動模組可以為武器升級獨特的附加組件.\n"
+"解鎖後，分別達到 8 級、16 級和 24 級即可獲得這些組件"
 
 #. Virry blurb - files tasks
 #. source: Safe Files, Battle Files, and Special Files. Unlock them, then purchase them in Add/Remove Unlocks.
 msgid "UI.task_virry_files"
-msgstr "安全文件、戰鬥文件和特殊檔案.解鎖後，即可在「新增/移除解鎖」中購買"
+msgstr ""
+"安全文件、戰鬥文件和特殊檔案.\n"
+"解鎖後，即可在「新增/移除解鎖」中購買"
 
 #. Virry blurb - theme tasks
 #. source: Themes dress up the desktop. When unlocked they can be applied in the Personalise menu.
 msgid "UI.task_virry_themes"
-msgstr "主題可以美化桌面.解鎖後，即可在「個人化」選單中套用主題"
+msgstr ""
+"主題可以美化桌面.\n"
+"解鎖後，即可在「個人化」選單中套用主題."
 
 #. Virry blurb - policy tasks
 #. source: Complete a Protocol with each Policy, then Domain Policies. Protocol V is the hard set.
 msgid "UI.task_virry_policies"
-msgstr "完成每個原則對應的協議，然後完成網域原則.第五協定是硬性要求."
+msgstr ""
+"完成每個原則對應的協定，然後完成網域原則.\n"
+"第五協定則是硬性要求."
 
 #. Virry blurb - general milestones
 #. source: General milestones. Mostly Beanz rewards.
 msgid "UI.task_virry_general"
-msgstr "一般里程碑.主要獎勵為 Beanz"
+msgstr ""
+"一般里程碑.\n"
+"主要獎勵為 Beanz."
 
 #. Virry blurb - claimable rewards waiting
 #. source: Nice work! Claim your Beanz rewards by clicking a blue row.
@@ -2800,7 +2831,7 @@ msgstr "遊戲時長"
 #. Profile stats - time played tooltip
 #. source: Time spent inside Battle Folders across all runs.
 msgid "UI.stat_time_played_desc"
-msgstr "所有遊玩中在戰鬥資料夾中花費的時間"
+msgstr "所有遊玩中累計在戰鬥資料夾中花費的時間"
 
 #. Profile stats - enemies cleared
 #. source: Enemies Cleared
@@ -2810,7 +2841,7 @@ msgstr "已清除敵人數"
 #. Profile stats - enemies cleared tooltip
 #. source: Enemies cleared across all runs.
 msgid "UI.stat_kills_desc"
-msgstr "所有遊玩中清除的敵人數"
+msgstr "所有遊玩中累計清除的敵人數"
 
 #. Profile stats - deaths
 #. source: Deaths
@@ -2840,7 +2871,7 @@ msgstr "完成次數"
 #. Profile stats - runs completed tooltip
 #. source: Runs that completed a Protocol.
 msgid "UI.stat_runs_won_desc"
-msgstr "完成協議的次數"
+msgstr "完成協定的次數"
 
 #. Profile stats - critical hits
 #. source: Critical Hits
@@ -2890,7 +2921,7 @@ msgstr "開啟的檔案數"
 #. Profile stats - files opened tooltip
 #. source: All folders and files double-clicked across runs.
 msgid "UI.stat_files_opened_desc"
-msgstr "所有遊玩中雙擊的資料夾和檔案數"
+msgstr "所有遊玩中累計雙擊的資料夾和檔案數"
 
 #. Profile stats - safe folders
 #. source: Safe Folders
@@ -2900,7 +2931,7 @@ msgstr "安全資料夾"
 #. Profile stats - safe folders tooltip
 #. source: Safe folders opened across all runs.
 msgid "UI.stat_safe_folders_desc"
-msgstr "所有遊玩中開啟的安全資料夾"
+msgstr "所有遊玩中累計開啟的安全資料夾"
 
 #. Profile stats - highest level
 #. source: Highest Level
@@ -2920,7 +2951,7 @@ msgstr "生命值恢復"
 #. Profile stats - HP healed tooltip
 #. source: Total HP restored across all runs.
 msgid "UI.stat_hp_healed_desc"
-msgstr "所有遊玩中恢復的總生命值"
+msgstr "所有遊玩中累計恢復的總生命值"
 
 #. Profile stats - plugins installed
 #. source: Plugins Installed
@@ -2930,12 +2961,12 @@ msgstr "已安裝插件"
 #. Profile stats - plugins installed tooltip
 #. source: Plugins installed across all runs.
 msgid "UI.stat_plugins_desc"
-msgstr "所有遊玩中安裝的插件數"
+msgstr "所有遊玩中累計安裝的插件數"
 
 #. Profile stats - zip files opened tooltip
 #. source: Zip archives successfully extracted.
 msgid "UI.stat_zips_desc"
-msgstr "壓縮檔案已成功解壓縮"
+msgstr "成功解壓縮次數"
 
 #. Profile stats - failed file opens
 #. source: Spam Ad Attacks
@@ -2950,7 +2981,7 @@ msgstr "因 Zip 或下載更多內存開啟失敗而產生的垃圾彈窗"
 #. Profile stats - rar files opened tooltip
 #. source: Rar archives completed.
 msgid "UI.stat_rars_desc"
-msgstr "rar 壓縮檔案已完成"
+msgstr "rar 壓縮檔案完成數"
 
 #. Profile stats - file extension row title
 #. source: .%s files opened
@@ -2988,7 +3019,7 @@ msgstr "已收集金鑰數"
 #. Profile stats - keys collected tooltip
 #. source: Keys collected across all runs.
 msgid "UI.stat_keys_collected_desc"
-msgstr "所有遊玩中收集的金鑰數"
+msgstr "所有遊玩中累計收集的金鑰數"
 
 #. Profile stats - highest weapon level
 #. source: Highest Weapon Level
@@ -3432,7 +3463,7 @@ msgstr "未完成"
 msgid "UI.admin_mouse_tooltip"
 msgstr ""
 "在安全性資料夾中，可使用滑鼠控制游標. [br]但在戰鬥資料夾中，請務必使用 "
-"WASD 或滑鼠左鍵"
+"WASD 或滑鼠左鍵."
 
 #. UI (script-driven)
 #. source: Reroll Locked
@@ -3595,7 +3626,7 @@ msgstr "資料夾難度決定了遊戲規則:敵人攻勢、獎勵豐富度以�
 #. source: Optional extra rules on top of the protocol. Completing them earns more Beanz.
 msgid "UI.starter_help_policies"
 msgstr ""
-"協議之外的可選額外規則\n"
+"協定之外的可選額外規則\n"
 "完成這些規則可獲得更多 Beanz"
 
 #. Starter folder button that reopens the tutorial guide
@@ -3620,7 +3651,7 @@ msgid "UI.tutorial_1_body"
 msgstr ""
 "歡迎來到 {game}  ! \n"
 "\n"
-"我是 Virry，我將帶你了解一些遊戲的基本玩法"
+"我是 Virry，我將帶你了解一些遊戲的基本玩法."
 
 #. Tutorial page 2 - {move} {click} {drag} become input icons
 #. source: First, let's get moving.\n\nUse {move} to move around the screen.\n\nClick with {click}, and don't forget to double-click to open files.\n\nYou can also hold {drag} to drag files and move them around the folder.
@@ -3640,16 +3671,16 @@ msgstr ""
 #. Keep placeholders unchanged: {class}, {difficulty}, {default}, {policies}
 msgid "UI.tutorial_3_body"
 msgstr ""
-"首先，你可以選擇一個類別 (class) 和一個難度 (difficulty). \n"
+"首先，你可以選擇一個類型 (class) 和一個難度 (difficulty). \n"
 "\n"
 "現在，我們選擇預設游標 (default Cursor)，隨著遊戲的進行，更多游標將會解"
 "鎖. \n"
 "\n"
-"選擇協議一到三 作為你的難度 (difficulty). \n"
+"選擇協定一到三 作為你的難度 (difficulty). \n"
 "\n"
-"完成協議將解鎖原則 (policies)，這些原則會為你帶來額外的挑戰. \n"
+"完成協定將解鎖原則 (policies)，這些原則會為你帶來額外的挑戰. \n"
 "\n"
-"現在就選擇你的類別 (class) 和難度 (difficulty) 吧  !"
+"現在就選擇你的類型 (class) 和難度 (difficulty) 吧  !"
 
 #. Tutorial page 4 - {drivers}
 #. source: You can select one Starter Weapon to begin.\n\nProgress through the run and level up to add more weapons to your build.\n\nWhen you level up, you can also choose between weapon and player upgrades to increase your stats.\n\nWhen your weapon reaches certain levels, you unlock {drivers} which give bespoke upgrades.
@@ -4298,7 +4329,7 @@ msgstr "解鎖{reward}"
 #. source: Reach round {amount} on {protocol} or higher
 #. Keep placeholders unchanged: {amount}, {protocol}
 msgid "UI.unlock_round_protocol"
-msgstr "在 {protocol} 或更高難度的協議中達到第 {amount} 回合"
+msgstr "在 {protocol} 或更高難度的協定中達到第 {amount} 回合"
 
 #. UI (script-driven)
 #. source: Heal {amount} HP total
@@ -4661,19 +4692,19 @@ msgstr ""
 #. source: Complete any protocol using {policy}
 #. Keep placeholders unchanged: {policy}
 msgid "UI.unlock_policy_win"
-msgstr "以 {policy} 完成任意協議"
+msgstr "以 {policy} 完成任意協定"
 
 #. Policy complete unlock description template
 #. source: Complete any protocol with {policy} enabled.
 #. Keep placeholders unchanged: {policy}
 msgid "UI.unlock_policy_win_desc"
-msgstr "在啟用 {policy} 的情況下完成任意協議"
+msgstr "在啟用 {policy} 的情況下完成任意協定"
 
 #. Protocol V policy unlock requirement template
 #. source: Complete Protocol V with {policy}
 #. Keep placeholders unchanged: {policy}
 msgid "UI.unlock_policy_v5"
-msgstr "以 {policy} 完成第五協議"
+msgstr "以 {policy} 完成第五協定"
 
 #. Protocol V policy unlock description template
 #. source: Complete Protocol V with {policy} enabled.
@@ -5287,7 +5318,7 @@ msgstr "難度"
 #. Run stats panel row
 #. source: Current protocol difficulty for this run.
 msgid "RUNSTAT.difficulty_desc"
-msgstr "本次運行的當前協議難度"
+msgstr "本次運行的當前協定難度"
 
 #. Run stats panel row
 #. source: Levels Gained
@@ -5879,7 +5910,7 @@ msgstr ""
 "傷害-25%"
 
 #. Weapon driver / overclock card - name (fontart_wordart)
-#. source: WordArt
+#. source: Outline
 msgid "DRIVER.fontart_wordart.name"
 msgstr "文字藝術"
 
@@ -5959,7 +5990,7 @@ msgid "DRIVER.minesweeper_chord.description"
 msgstr "地雷會持續存在直到被觸發"
 
 #. Weapon driver / overclock card - name (modem_handshake)
-#. source: Dial-up Congestion
+#. source: Feedback
 msgid "DRIVER.modem_handshake.name"
 msgstr "撥接上網擁堵"
 
@@ -5971,7 +6002,7 @@ msgstr ""
 "尺寸+25%"
 
 #. Weapon driver / overclock card - name (modem_broadband)
-#. source: Broadband
+#. source: Gain
 msgid "DRIVER.modem_broadband.name"
 msgstr "寬頻"
 
@@ -6002,7 +6033,7 @@ msgstr "結束製程"
 #. Weapon driver / overclock card - description (orchestra_taskkill)
 #. source: Increase execute chance.
 msgid "DRIVER.orchestra_taskkill.description"
-msgstr "增加執行機率"
+msgstr "增加處決機率"
 
 #. Weapon driver / overclock card - name (paint_spill)
 #. source: Spill
@@ -6153,7 +6184,7 @@ msgstr "一擊斃命"
 #. source: Adds +7% execute chance.\nIncrease Damage +25%.
 msgid "DRIVER.sniper_oneshot.description"
 msgstr ""
-"+7%執行機率\n"
+"+7%處決機率\n"
 "傷害+25%"
 
 #. Weapon driver / overclock card - name (solitaire_cheat)
