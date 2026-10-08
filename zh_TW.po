@@ -1611,7 +1611,7 @@ msgstr "Orchestra"
 #. source: Opens a browser tab on the closest enemy on screen. Infects, and sometimes executes.
 msgid "UPGRADE.weapon_orchestra.description"
 msgstr ""
-"在螢幕上最近的敵人處開啟一個瀏覽器標籤頁\n"
+"在螢幕上最近的敵人處開啟一個瀏覽器分頁\n"
 "感染敵人，有時還會處決敵人"
 
 #. Upgrade card - name (weapon_satellite)
@@ -1692,12 +1692,12 @@ msgstr "信封"
 #. Weapon metadata
 #. source: tab
 msgid "WEAPON.cruiser.spawn_noun"
-msgstr "標籤頁"
+msgstr "分頁"
 
 #. Weapon metadata
 #. source: tab
 msgid "WEAPON.orchestra.spawn_noun"
-msgstr "標籤頁"
+msgstr "分頁"
 
 #. Weapon metadata
 #. source: dish
@@ -2252,12 +2252,12 @@ msgstr "選單快速鍵"
 #. Settings menu
 #. source: Previous Tab
 msgid "SETTINGS.action_menu_tab_prev"
-msgstr "上一個標籤頁"
+msgstr "上一個分頁"
 
 #. Settings menu
 #. source: Next Tab
 msgid "SETTINGS.action_menu_tab_next"
-msgstr "下一個標籤頁"
+msgstr "下一個分頁"
 
 #. Rarity label
 #. source: Common
@@ -6016,7 +6016,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (orchestra_fortissimo)
 #. source: Tab Overload
 msgid "DRIVER.orchestra_fortissimo.name"
-msgstr "標籤頁過載"
+msgstr "分頁超載"
 
 #. Weapon driver / overclock card - description (orchestra_fortissimo)
 #. source: Converts Infect to Heat. Increase Damage +35%.\nIncrease Power +35%.
