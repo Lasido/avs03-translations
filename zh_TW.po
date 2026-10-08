@@ -917,7 +917,7 @@ msgid "PROTOCOL.protocol_1.description"
 msgstr ""
 "初級難度\n"
 "每開啟一個安全資料夾可獲得 16 Beanz，\n"
-"消滅敵人可獲得額外Beanz"
+"消滅敵人可獲得額外Beanz."
 
 #. Difficulty protocol - name (protocol_2)
 #. source: Protocol II
@@ -930,7 +930,7 @@ msgid "PROTOCOL.protocol_2.description"
 msgstr ""
 "中級難度\n"
 "每開啟一個安全資料夾可獲得 24 Beanz，\n"
-"消滅敵人可獲得額外Beanz"
+"消滅敵人可獲得額外Beanz."
 
 #. Difficulty protocol - name (protocol_3)
 #. source: Protocol III
@@ -4684,9 +4684,12 @@ msgstr "Natasha的憤怒"
 #. source: Every standard Policy at once. Enemies are faster, tougher, and more numerous. Halve current HP each Battle Folder. No extra weapons, Keygens, or rerolls. Void is 2x. Escape timer is halved.
 msgid "POLICY.default_domain_policy.description"
 msgstr ""
-"一次套用所有標準原則敵人速度更快、更強韌，數量也更多.每場戰鬥都會使目前生命"
-"值減半.不提供額外武器、金鑰產生器或重骰.虛空效果為 2 倍.逃脫計時器縮短為一"
-"半."
+"一次套用所有標準原則.\n"
+"敵人速度更快、更強韌，數量也更多.\n"
+"每場戰鬥都會使目前生命值減半.\n"
+"不提供額外武器、金鑰產生器或重骰.\n"
+"虛空傷害效果為 2 倍.\n"
+"逃脫計時器縮短為一半."
 
 #. Policy complete unlock requirement template
 #. source: Complete any protocol using {policy}
