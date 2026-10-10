@@ -432,7 +432,7 @@ msgstr "雙核心"
 #. Plugin - description (dual_core)
 #. source: Multiply Processing Speed 2.0x.
 msgid "PLUGIN.dual_core.description"
-msgstr "處理速度+2倍"
+msgstr "處理速度乘2x"
 
 #. Plugin - name (heal_on_crit)
 #. source: Retry
@@ -861,8 +861,8 @@ msgstr "磁碟區塊條帶化"
 #. source: Multiply Zip and RAM rewards 2.0x.\nDecrease Zip and RAM success chance.
 msgid "PLUGIN.raid_0.description"
 msgstr ""
-"壓縮檔和內存給的獎勵乘2x\n"
-"但降低壓縮檔和內存成功機率"
+"壓縮檔和記憶體給的獎勵乘2x\n"
+"但降低壓縮檔和記憶體成功機率"
 
 #. Plugin - name (system_restore)
 #. source: System Restore
@@ -1469,7 +1469,7 @@ msgstr "在玩家周圍生成一個火焰環，使敵人疊加灼熱層數"
 #. Upgrade card - name (weapon_fontart)
 #. source: FontArt
 msgid "UPGRADE.weapon_fontart.name"
-msgstr "字體藝術"
+msgstr "文字藝術"
 
 #. Upgrade card - description (weapon_fontart)
 #. source: Drops letters on the strongest enemy that add stacks of Heat to enemies.
@@ -1524,7 +1524,7 @@ msgstr "搜索"
 #. Upgrade card - description (weapon_search)
 #. source: Sends out a magnifying glass around the player.
 msgid "UPGRADE.weapon_search.description"
-msgstr "向玩家周圍擴散出一個放大鏡"
+msgstr "向玩家周圍發射出一個放大鏡"
 
 #. Upgrade card - name (weapon_solitaire)
 #. source: Solitaire
@@ -1622,7 +1622,7 @@ msgstr "無線網路"
 #. Upgrade card - description (weapon_satellite)
 #. source: Deploys a dish that pings nearby enemies with Lag signals.
 msgid "UPGRADE.weapon_satellite.description"
-msgstr "部署一個天線，向附近敵人發出延遲訊號"
+msgstr "部署一個碟型天線，向附近敵人發出延遲訊號"
 
 #. Upgrade card - name (weapon_avn)
 #. source: AVN Chat
@@ -1657,7 +1657,7 @@ msgstr "連鎖攻擊，以固定長度在敵人之間建立感染連接"
 #. Upgrade card - name (weapon_modem)
 #. source: Output Device
 msgid "UPGRADE.weapon_modem.name"
-msgstr "輸出設備"
+msgstr "輸出裝置"
 
 #. Upgrade card - description (weapon_modem)
 #. source: Blasts sound rings outward from the cursor.
@@ -2976,7 +2976,7 @@ msgstr "垃圾廣告攻擊"
 #. Profile stats - failed file opens tooltip
 #. source: Spam popups spawned from failed Zip or Download More RAM opens.
 msgid "UI.stat_failed_files_desc"
-msgstr "因 Zip 或下載更多內存開啟失敗而產生的垃圾彈窗"
+msgstr "因 Zip 或下載更多記憶體 開啟失敗而產生的垃圾彈窗"
 
 #. Profile stats - rar files opened tooltip
 #. source: Rar archives completed.
@@ -3463,7 +3463,7 @@ msgstr "未完成"
 msgid "UI.admin_mouse_tooltip"
 msgstr ""
 "在安全性資料夾中，可使用滑鼠控制游標. [br]但在戰鬥資料夾中，請務必使用 "
-"WASD 或滑鼠左鍵."
+"WASD 或左類比搖桿."
 
 #. UI (script-driven)
 #. source: Reroll Locked
@@ -4120,7 +4120,7 @@ msgstr "開啟 {amount}個 {file} 文件"
 #. source: Download More RAM {amount} times
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_open_download_ram"
-msgstr "下載更多內存{amount}次"
+msgstr "下載更多記憶體{amount}次"
 
 #. Unlock requirement - successfully extract N Zip files
 #. source: Successfully extract {amount} Zip files
@@ -4497,7 +4497,7 @@ msgstr "所有遊玩累計{file} 個開啟的檔案"
 #. Lifetime Download More RAM milestone description
 #. source: Download More RAM completed across all runs.
 msgid "UI.unlock_general_download_ram_desc"
-msgstr "所有遊玩累計成功 下載更多內存 次數"
+msgstr "所有遊玩累計成功 下載更多記憶體 次數"
 
 #. Lifetime enemy-type clears milestone description
 #. source: {enemy} enemies cleared across all runs.
@@ -4991,7 +4991,7 @@ msgstr "此檔案已使用"
 #. Ethanol 130% idle panel title
 #. source: Ready to Distill...
 msgid "UI.ethanol_ready"
-msgstr "準備提煉..."
+msgstr "準備蒸餾..."
 
 #. Ethanol 130% copying panel title
 #. source: Copying Plugin...
@@ -5260,7 +5260,7 @@ msgstr "SHZip v2.03"
 #. Keep placeholders unchanged: %s
 msgid "ZIP.extracting"
 msgstr ""
-"正在從 /??? 解壓縮檔案:\n"
+"正在從 /.??? 解壓縮檔案:\n"
 "%s"
 
 #. Zip extractor window
@@ -5528,7 +5528,7 @@ msgstr "丟包"
 #. Scene label
 #. source: Memory Leak!
 msgid "Memory Leak"
-msgstr "內存洩漏  !"
+msgstr "記憶體洩漏  !"
 
 #. Scene label
 msgid "Zip File"
@@ -5565,11 +5565,11 @@ msgstr "游標特效"
 
 #. Scene label
 msgid "Download More RAM"
-msgstr "下載更多內存"
+msgstr "下載更多記憶體"
 
 #. RAM download complete
 msgid "RAM download complete."
-msgstr "內存下載完成."
+msgstr "記憶體下載完成."
 
 #. keygen
 msgid "keygen.exe"
@@ -5655,7 +5655,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (turbo_clock)
 #. source: Turbo Clock
 msgid "DRIVER.turbo_clock.name"
-msgstr "睿頻"
+msgstr "渦輪加速"
 
 #. Weapon driver / overclock card - description (turbo_clock)
 #. source: Increase Speed +50%.\nReduce Power -15%.
@@ -5687,7 +5687,7 @@ msgstr "攻擊速度不再縮短此武器的持續時間"
 #. Weapon driver / overclock card - name (bumper)
 #. source: Bumper
 msgid "DRIVER.bumper.name"
-msgstr "保險桿"
+msgstr "彈力碰撞器"
 
 #. Weapon driver / overclock card - description (bumper)
 #. source: On wall bounce: Increase Damage +50% and trigger a Blast.
@@ -5709,7 +5709,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (avn_away)
 #. source: Away Message
 msgid "DRIVER.avn_away.name"
-msgstr "自動回覆"
+msgstr "離開訊息"
 
 #. Weapon driver / overclock card - description (avn_away)
 #. source: Add +1 Amount. Increase Speed +20%.\nIncrease Size +15%.
@@ -5757,7 +5757,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (bubbles_suds)
 #. source: Suds
 msgid "DRIVER.bubbles_suds.name"
-msgstr "泡棉"
+msgstr "肥皂泡沫"
 
 #. Weapon driver / overclock card - description (bubbles_suds)
 #. source: On wall bounce: split into two half-size copies.\nCopies can split once.
@@ -5791,7 +5791,7 @@ msgstr "猛擊螢幕上的目標敵人"
 #. Weapon driver / overclock card - name (cone_detour)
 #. source: Detour
 msgid "DRIVER.cone_detour.name"
-msgstr "車輛改道"
+msgstr "改道"
 
 #. Weapon driver / overclock card - description (cone_detour)
 #. source: Converts Heat to Lag. Increase Size +35%.\nIncrease Damage +15%.
@@ -5827,7 +5827,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (cruiser_popup)
 #. source: Popup Storm
 msgid "DRIVER.cruiser_popup.name"
-msgstr "暴風雨"
+msgstr "彈出式視窗風暴"
 
 #. Weapon driver / overclock card - description (cruiser_popup)
 #. source: Tabs chase enemies until the attack ends.
@@ -5915,7 +5915,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (fontart_wordart)
 #. source: Outline
 msgid "DRIVER.fontart_wordart.name"
-msgstr "文字藝術"
+msgstr "外框字"
 
 #. Weapon driver / overclock card - description (fontart_wordart)
 #. source: Increase Size +40%.\nAdd +1 Amount.
@@ -5927,7 +5927,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (fraps_benchmark)
 #. source: Benchmark
 msgid "DRIVER.fraps_benchmark.name"
-msgstr "基準"
+msgstr "基準測試"
 
 #. Weapon driver / overclock card - description (fraps_benchmark)
 #. source: Converts Repel to Heat. Increase Damage +25%.\nIncrease Speed +20%.
@@ -5973,7 +5973,7 @@ msgstr "擊殺敵人後，提高下一次攻擊的攻擊速度"
 #. Weapon driver / overclock card - name (minesweeper_flag)
 #. source: Incendiary Charge
 msgid "DRIVER.minesweeper_flag.name"
-msgstr "燃燒彈"
+msgstr "燃燒炸藥"
 
 #. Weapon driver / overclock card - description (minesweeper_flag)
 #. source: Converts Repel to Heat. Add +1 Amount.\nIncrease Power +20%.
@@ -5995,7 +5995,7 @@ msgstr "地雷會持續存在直到被觸發"
 #. Weapon driver / overclock card - name (modem_handshake)
 #. source: Feedback
 msgid "DRIVER.modem_handshake.name"
-msgstr "撥接上網擁堵"
+msgstr "高頻訊號回授"
 
 #. Weapon driver / overclock card - description (modem_handshake)
 #. source: Converts Repel to Lag. Add +1 Amount.\nIncrease Size +25%.
@@ -6065,7 +6065,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (pinball_tilted)
 #. source: Tilted
 msgid "DRIVER.pinball_tilted.name"
-msgstr "傾斜"
+msgstr "觸發傾斜鎖死"
 
 #. Weapon driver / overclock card - description (pinball_tilted)
 #. source: On wall bounce: Increase Size. Happens up to twice.\nReduce Size -30%.
@@ -6077,7 +6077,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (quarantine_strict)
 #. source: Strict
 msgid "DRIVER.quarantine_strict.name"
-msgstr "嚴格"
+msgstr "嚴格模式"
 
 #. Weapon driver / overclock card - description (quarantine_strict)
 #. source: Converts Repel to Infect.\nIncrease Power +70%.
@@ -6089,7 +6089,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (quarantine_heuristic)
 #. source: Heuristic
 msgid "DRIVER.quarantine_heuristic.name"
-msgstr "啟發式"
+msgstr "啟發式偵測"
 
 #. Weapon driver / overclock card - description (quarantine_heuristic)
 #. source: Increase Damage +40%.\nIncrease Speed +20%.
@@ -6101,7 +6101,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (satellite_dish)
 #. source: Microwave Dish
 msgid "DRIVER.satellite_dish.name"
-msgstr "微波天線"
+msgstr "微波碟型天線"
 
 #. Weapon driver / overclock card - description (satellite_dish)
 #. source: Converts Lag to Heat. Increase Size +30%.\nIncrease Speed +15%.
@@ -6113,7 +6113,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (satellite_uplink)
 #. source: Uplink
 msgid "DRIVER.satellite_uplink.name"
-msgstr "上行流量"
+msgstr "上行鏈路"
 
 #. Weapon driver / overclock card - description (satellite_uplink)
 #. source: Dishes follow you for their lifetime.
@@ -6123,7 +6123,7 @@ msgstr "微波天線將跟著你直到其本身時間到"
 #. Weapon driver / overclock card - name (scimitar_dragon)
 #. source: Weapon Poison
 msgid "DRIVER.scimitar_dragon.name"
-msgstr "這武器有毒"
+msgstr "武器塗毒"
 
 #. Weapon driver / overclock card - description (scimitar_dragon)
 #. source: Converts Repel to Infect. Increase Size +50%.\nAdd +1 Amount.
@@ -6157,7 +6157,7 @@ msgstr ""
 #. Weapon driver / overclock card - name (search_indexed)
 #. source: Find Next
 msgid "DRIVER.search_indexed.name"
-msgstr "來，下一位"
+msgstr "尋找下一個"
 
 #. Weapon driver / overclock card - description (search_indexed)
 #. source: Increase Speed +30%.\nIncrease Refresh +20%.
@@ -6255,12 +6255,12 @@ msgstr "程式現在可以繼續進行."
 #. Scene label
 #. screens: download_ram_window.tscn
 msgid "RAM Downloader Professional (Legal)"
-msgstr "內存下載器專業版(合法)"
+msgstr "記憶體下載器專業版(合法)"
 
 #. Scene label
 #. screens: download_ram_window.tscn
 msgid "Your RAM is now downloading..."
-msgstr "你的內存正在下載…"
+msgstr "你的記憶體正在下載…"
 
 #. Scene label
 #. screens: keygen_window.tscn
@@ -6350,7 +6350,7 @@ msgstr "呃喔喔喔喔喔——警告，你可能會……"
 #. Scene label
 #. screens: spam_ad_10.tscn
 msgid "1,000,0000 th VISTOR this WEEK!!! PRIZE WON!"
-msgstr "本週第1，000，0000位訪客 ! ! !中獎啦 ! ! !"
+msgstr "本週第1,000,0000位訪客 ! ! !中獎啦 ! ! !"
 
 #. Scene label
 #. screens: vapor_exe.tscn
@@ -6538,7 +6538,7 @@ msgid ""
 "Heal 20% of Max HP when opening a Safe Folder."
 msgstr ""
 "+10點最大血量.\n"
-"當開啟安全資料夾時治療20%最大生命值值."
+"當開啟安全資料夾時治療20%最大生命值."
 
 #. Scene label
 #. screens: main_menu.tscn
@@ -6548,7 +6548,7 @@ msgstr "離開至桌面"
 #. Scene label
 #. screens: main_menu.tscn
 msgid "Start Exploring"
-msgstr "開始搜索"
+msgstr "開始探索"
 
 #. Scene label
 #. screens: main_menu.tscn
@@ -6671,7 +6671,7 @@ msgstr "FPS上限："
 #. Scene label
 #. screens: settings_menu.tscn
 msgid "Cycle"
-msgstr "設定選單.tscn"
+msgstr "切換"
 
 #. Scene label
 #. screens: settings_menu.tscn
