@@ -967,8 +967,8 @@ msgstr "第五協定"
 #. source: You don't have to do this. 64 Beanz per Safe Folder opened if you do though.
 msgid "PROTOCOL.protocol_5.description"
 msgstr ""
-"你不必挑戰這個難度 不過，如果你選擇挑戰，每開啟一個安全資料夾可獲得 64 "
-"Beanz."
+"你不必挑戰這個難度 不過，如果你選擇挑戰，\n"
+"每開啟一個安全資料夾可獲得 64 Beanz."
 
 #. Stat display - name (upgrade_player_armor)
 #. source: Armo(u)r
