@@ -284,7 +284,7 @@ msgstr "企業版"
 msgid "PLUGIN.big_hp_regen_boost.description"
 msgstr ""
 "+64最大生命值\n"
-"+12血量回復"
+"+12治療回復"
 
 #. Plugin - name (big_wave_damage)
 #. source: Peak Hours
@@ -5130,7 +5130,7 @@ msgstr "無需金鑰"
 #. Legendary installer tooltip
 #. source: Uses 3 keys · Always Legendary
 msgid "CLICKABLE.legendary_installer_hint"
-msgstr "使用3把金鑰—保證傳奇"
+msgstr "使用3把金鑰 · 保證傳奇"
 
 #. Desktop icon tooltip
 #. source: Destroys everything on-screen!
