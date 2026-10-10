@@ -2990,7 +2990,7 @@ msgstr "rar 壓縮檔案完成數"
 #. source: .%s files opened
 #. Keep placeholders unchanged: %s
 msgid "UI.stat_ext_opened"
-msgstr "已開啟的.%s 檔案"
+msgstr "已開啟的 .%s 檔案"
 
 #. Profile stats - file extension row tooltip
 #. source: %s files successfully opened.
