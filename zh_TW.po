@@ -4469,7 +4469,7 @@ msgstr "傳奇安裝程式"
 #. UI (script-driven)
 #. source: Defeat a Plus! enemy in 10 seconds
 msgid "UI.unlock_file_morgan_av"
-msgstr "10 秒內擊敗 Plus !敵人"
+msgstr "10 秒內擊敗 Plus! 敵人"
 
 #. UI (script-driven)
 #. source: Install Morgan Antivirus to raise difficulty and spawn extra Plus! enemies.
