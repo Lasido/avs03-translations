@@ -2386,7 +2386,7 @@ msgid "UI.login_prompt"
 msgstr ""
 "首先，點擊你的用戶名. \n"
 "登入後，你可以變更個人資料. \n"
-"只需點擊選單頂部的使用者名稱即可"
+"只需點擊選單頂部的使用者名稱即可."
 
 #. Login screen - turn off computer button
 #. source: Turn off computer
@@ -6598,7 +6598,7 @@ msgid ""
 "enjoy and have a great day <3\n"
 "shaun"
 msgstr ""
-"非常感謝你的參與. 這對我來說很重要.\n"
+"非常感謝你的參與 這對我來說很重要\n"
 "享受遊戲\n"
 "祝你有個美好的一天\n"
 "<3\n"
