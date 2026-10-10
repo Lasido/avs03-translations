@@ -3510,7 +3510,7 @@ msgstr "單次遊戲使用 {weapon} 達到 {amount} 級"
 #. source: {weapon} Drivers
 #. Keep placeholders unchanged: {weapon}
 msgid "UI.unlock_driver_reward"
-msgstr "{weapon}驅動模組"
+msgstr "{weapon} 驅動模組"
 
 #. Weapon driver unlock description template
 #. source: Unlocks Weapon Drivers for {weapon}.
@@ -4067,7 +4067,7 @@ msgstr "已停止 (%d)"
 #. source: Press {close} to reboot to main menu...
 #. Keep placeholders unchanged: {close}
 msgid "UI.end_screen_exit_prompt"
-msgstr "按下{close}重新啟動至主選單"
+msgstr "按下 {close} 重新啟動至主選單"
 
 #. HUD - health label
 #. source: HP: %d/%d
@@ -4109,19 +4109,19 @@ msgstr "造成 {amount} 點傷害"
 #. source: Open {amount} files
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_open_files"
-msgstr "開啟{amount}次文件"
+msgstr "開啟 {amount} 次文件"
 
 #. Unlock requirement - open N files of a type
 #. source: Open {amount} {file} files
 #. Keep placeholders unchanged: {amount}, {file}
 msgid "UI.unlock_open_file_type"
-msgstr "開啟 {amount}個 {file} 文件"
+msgstr "開啟 {amount} 個 {file} 文件"
 
 #. Unlock requirement - Download More RAM N times
 #. source: Download More RAM {amount} times
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_open_download_ram"
-msgstr "下載更多記憶體{amount}次"
+msgstr "下載更多記憶體 {amount} 次"
 
 #. Unlock requirement - successfully extract N Zip files
 #. source: Successfully extract {amount} Zip files
@@ -4220,7 +4220,7 @@ msgstr "承受 {amount} 點傷害"
 #. source: Land {amount} headshots
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_headshots"
-msgstr "擊殺 {amount} 爆頭數"
+msgstr "達成 {amount} 次爆頭"
 
 #. Unlock requirement - apply N Heat stacks
 #. source: Apply {amount} Heat stacks to enemies
@@ -4312,7 +4312,7 @@ msgstr "允許你在遊戲結束時選擇 {boss}，而不是只能選擇隨機�
 #. source: Land a single hit of {amount} damage
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_hit"
-msgstr "單次造成{amount} 點傷害"
+msgstr "單次造成 {amount} 點傷害"
 
 #. Unlock requirement - complete a protocol
 #. source: Complete {protocol}
@@ -4341,7 +4341,7 @@ msgstr "恢復 {amount} 點生命值"
 #. UI (script-driven)
 #. source: Die 10 times
 msgid "UI.unlock_class_null"
-msgstr "藍屏10次"
+msgstr "藍屏 10 次"
 
 #. UI (script-driven)
 #. source: Collect {amount} Coin in a single run
@@ -4493,7 +4493,7 @@ msgstr "生涯已開啟文件里程碑"
 #. source: {file} files opened across all runs.
 #. Keep placeholders unchanged: {file}
 msgid "UI.unlock_general_file_type_desc"
-msgstr "所有遊玩累計{file} 個開啟的檔案"
+msgstr "所有遊玩累計 {file} 個開啟的檔案"
 
 #. Lifetime Download More RAM milestone description
 #. source: Download More RAM completed across all runs.
@@ -4735,7 +4735,7 @@ msgstr "售出 1 把金鑰"
 #. source: {cost} Coin
 #. Keep placeholders unchanged: {cost}
 msgid "UI.keybuy_cost"
-msgstr "{cost}金幣"
+msgstr "{cost} 金幣"
 
 #. KeyBuy header slogan
 #. source: The World's Biggest Key Marketplace
@@ -4820,13 +4820,13 @@ msgstr "升級後，戰鬥中健康檢查檔案掉落更多生命值"
 #. source: Now: {min}–{max} HP
 #. Keep placeholders unchanged: {min}, {max}
 msgid "UI.health_check_pro_range_now"
-msgstr "現在:{min}–{max} 生命值"
+msgstr "現在: {min}–{max} 生命值"
 
 #. Health Check Pro range after upgrade
 #. source: After upgrade: {min}–{max} HP
 #. Keep placeholders unchanged: {min}, {max}
 msgid "UI.health_check_pro_range_next"
-msgstr "升級後:{min}–{max} 生命值"
+msgstr "升級後: {min}–{max} 生命值"
 
 #. Health Check Pro range after purchase
 #. source: Upgraded: {min}–{max} HP
@@ -4851,7 +4851,7 @@ msgstr "+{amount} 生命值"
 #. source: {cost} Coin
 #. Keep placeholders unchanged: {cost}
 msgid "UI.health_check_pro_cost"
-msgstr "{cost}金幣"
+msgstr "{cost} 金幣"
 
 #. Finance Manager window and desktop icon title
 #. source: Finance Manager
@@ -4967,7 +4967,7 @@ msgstr "支付金幣來複製隨機一項你已安裝的插件"
 #. source: Copy: {cost} Coin
 #. Keep placeholders unchanged: {cost}
 msgid "UI.ethanol_copy"
-msgstr "複製:{cost}金幣"
+msgstr "複製: {cost} 金幣"
 
 #. Ethanol 130% install button
 #. source: Install
