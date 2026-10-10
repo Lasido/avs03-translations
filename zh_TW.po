@@ -387,8 +387,8 @@ msgstr "職業生涯規劃"
 #. source: Increase Weapon Damage +3% per player level.\nDecrease Max HP -1 per player level.
 msgid "PLUGIN.damage_level_scaling.description"
 msgstr ""
-"每等武器傷害+3%\n"
-"最大生命值-1"
+"每升1等武器傷害+3%\n"
+"每升1等最大生命值-1"
 
 #. Plugin - name (damage_missing_hp)
 #. source: Redline
