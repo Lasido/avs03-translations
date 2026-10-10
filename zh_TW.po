@@ -48,7 +48,7 @@ msgstr "無效"
 msgid "CLASS.null.description"
 msgstr ""
 "-25最大生命值\n"
-"掉封包+8\n"
+"丟包+8\n"
 "幸運乘1.5x\n"
 "傷害乘0.9x"
 
@@ -62,7 +62,7 @@ msgstr "向量"
 msgid "CLASS.vector.description"
 msgstr ""
 "游標移速乘1.25x\n"
-"掉封包+15\n"
+"丟包+15\n"
 "-25最大生命值\n"
 "武器傷害乘0.9x\n"
 "掉包時游標速度乘1.25x，刷新速度乘1.2x(持續4秒)"
@@ -200,12 +200,12 @@ msgstr "每級的最大生命值額外+10"
 #. Meta upgrade menu - name (packet_loss)
 #. source: Packet Loss
 msgid "META.packet_loss.name"
-msgstr "掉封包"
+msgstr "丟包"
 
 #. Meta upgrade menu - description (packet_loss)
 #. source: Adds +1 Packet Loss per Rank.
 msgid "META.packet_loss.description"
-msgstr "每級的掉封包額外+1"
+msgstr "每級的丟包額外+1"
 
 #. Meta upgrade menu - description (proc_speed)
 #. source: Multiply Processing Speed by an extra +1% per Rank.
@@ -529,12 +529,12 @@ msgstr "磁力乘1.1x"
 #. Plugin - name (packet_loss_boost)
 #. source: Packet Loss Boost
 msgid "PLUGIN.packet_loss_boost.name"
-msgstr "掉封包提升"
+msgstr "丟包提升"
 
 #. Plugin - description (packet_loss_boost)
 #. source: Add +6 Packet Loss.
 msgid "PLUGIN.packet_loss_boost.description"
-msgstr "掉封包+6"
+msgstr "丟包+6"
 
 #. Plugin - name (processing_speed_boost)
 #. source: Processing Speed Boost
@@ -1023,7 +1023,7 @@ msgstr "倍增所有傷害輸出"
 #. Stat display - name (upgrade_player_dodge)
 #. source: Packet Loss
 msgid "STAT.upgrade_player_dodge.name"
-msgstr "掉封包"
+msgstr "丟包"
 
 #. Stat display - description (upgrade_player_dodge)
 #. source: Chance to dodge all incoming Damage. (Exponential)
