@@ -5832,7 +5832,7 @@ msgstr "彈出式視窗風暴"
 #. Weapon driver / overclock card - description (cruiser_popup)
 #. source: Tabs chase enemies until the attack ends.
 msgid "DRIVER.cruiser_popup.description"
-msgstr "標籤會追擊敵人直到攻擊結束"
+msgstr "分頁會追擊敵人直到攻擊時間結束"
 
 #. Weapon driver / overclock card - name (cut_cleave)
 #. source: Cleave
@@ -6118,7 +6118,7 @@ msgstr "上行鏈路"
 #. Weapon driver / overclock card - description (satellite_uplink)
 #. source: Dishes follow you for their lifetime.
 msgid "DRIVER.satellite_uplink.description"
-msgstr "微波天線將跟著你直到其本身時間到"
+msgstr "碟型天線將會跟著你"
 
 #. Weapon driver / overclock card - name (scimitar_dragon)
 #. source: Weapon Poison
