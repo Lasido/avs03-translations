@@ -4276,7 +4276,7 @@ msgstr "額外獎勵"
 #. source: Open {amount} LemWire files
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_open_lemwire"
-msgstr "開啟 {amount} 個 LemWire 文件"
+msgstr "開啟 {amount} 個 LemWire 檔案"
 
 #. Unlock requirement - trigger N spam ad attacks
 #. source: Trigger {amount} Spam Ad Attacks
@@ -4335,7 +4335,7 @@ msgstr "在 {protocol} 或更高難度的協定中達到第 {amount} 回合"
 #. source: Heal {amount} HP total
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_plugin_big_hp_regen_boost"
-msgstr "恢復 {amount} 點HP"
+msgstr "恢復 {amount} 點生命值"
 
 #. UI (script-driven)
 #. source: Die 10 times
@@ -6721,7 +6721,7 @@ msgstr "金鑰產生器音量:"
 #. Scene label
 #. screens: shop_screen.tscn
 msgid "Upgrade Shop"
-msgstr "升級商店.tscn"
+msgstr "升級商店"
 
 #. Scene label
 #. screens: sound_button.tscn
