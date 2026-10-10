@@ -4506,7 +4506,7 @@ msgstr "所有遊玩累計成功 下載更多記憶體 次數"
 #. source: {enemy} enemies cleared across all runs.
 #. Keep placeholders unchanged: {enemy}
 msgid "UI.unlock_general_enemy_desc"
-msgstr "所有遊玩過程中擊殺的{enemy}種敵人"
+msgstr "所有遊玩過程中擊殺的 {enemy} 種敵人"
 
 #. Lifetime critical hits milestone description
 #. source: Lifetime critical hits milestone.
