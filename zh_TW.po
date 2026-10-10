@@ -1601,7 +1601,9 @@ msgstr "網路漫遊者"
 #. Upgrade card - description (weapon_cruiser)
 #. source: Opens a browser tab somewhere on screen. Lingers and applies heavy Lag.
 msgid "UPGRADE.weapon_cruiser.description"
-msgstr "在螢幕隨機位置開啟瀏覽器分頁.該分頁會持續滯留並引發嚴重的卡頓"
+msgstr ""
+"在螢幕隨機位置開啟瀏覽器分頁\n"
+"該分頁會持續滯留並引發嚴重的卡頓"
 
 #. Upgrade card - name (weapon_orchestra)
 #. source: Orchestra
