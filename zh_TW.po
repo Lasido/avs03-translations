@@ -3805,7 +3805,7 @@ msgstr "Vapidshare Pro"
 #. source: Parts %d / %d
 #. Keep placeholders unchanged: %d
 msgid "UI.vapidshare_parts"
-msgstr "分卷%d / %d"
+msgstr "分割檔%d / %d"
 
 #. Vapidshare window extracting status
 #. source: Extracting...
