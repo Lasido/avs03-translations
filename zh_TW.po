@@ -1055,9 +1055,7 @@ msgstr "每 20 秒恢復的生命值"
 #. source: {sign}{value} HP
 #. Keep placeholders unchanged: {sign}, {value}
 msgid "STAT.format_hp"
-msgstr ""
-"{sign}{value} 生命值\n"
-"‪"
+msgstr "{sign}{value} 生命值"
 
 #. Stat display - name (upgrade_player_luck)
 #. source: Luck
