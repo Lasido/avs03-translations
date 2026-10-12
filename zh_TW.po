@@ -106,7 +106,7 @@ msgstr "管理員"
 msgid "CLASS.admin.description"
 msgstr ""
 "開場+1把金鑰\n"
-"金幣獲取乘1.3x\n"
+"硬幣獲取乘1.3x\n"
 "撿取範圍乘3x\n"
 "商店物品打折+10%\n"
 "最大血量乘0.9x\n"
@@ -319,12 +319,12 @@ msgstr "每30秒有10%機率執行磁碟重組"
 #. Plugin - name (coin_boost)
 #. source: Coin Gain Boost
 msgid "PLUGIN.coin_boost.name"
-msgstr "金幣收益提升"
+msgstr "硬幣收益提升"
 
 #. Plugin - description (coin_boost)
 #. source: Multiply Coin Gain 1.1x.
 msgid "PLUGIN.coin_boost.description"
-msgstr "金幣收益乘1.1x"
+msgstr "硬幣收益乘1.1x"
 
 #. Plugin - name (coin_drop_boost)
 #. source: Shared Folders
@@ -334,7 +334,7 @@ msgstr "分享資料夾"
 #. Plugin - description (coin_drop_boost)
 #. source: Increase enemy Coin Drop Chance +20%.
 msgid "PLUGIN.coin_drop_boost.description"
-msgstr "敵方金幣掉落機率+20%"
+msgstr "敵方硬幣掉落機率+20%"
 
 #. Plugin - name (crit_chance_boost)
 #. source: Crit Chance Boost
@@ -692,7 +692,7 @@ msgstr "網頁計數器"
 #. Plugin - description (adsense)
 #. source: Gain +1 Coin when opening a File.
 msgid "PLUGIN.adsense.description"
-msgstr "當開啟文件時+1金幣"
+msgstr "當開啟文件時+1硬幣"
 
 #. Plugin - name (still_frame)
 #. source: Still Frame
@@ -734,7 +734,7 @@ msgstr "傷荷包"
 #. Plugin - description (wallet_damage)
 #. source: Increase Weapon Damage +1% per 10 Coin held.
 msgid "PLUGIN.wallet_damage.description"
-msgstr "每擁有10金幣提升武器傷害+1%"
+msgstr "每擁有10硬幣提升武器傷害+1%"
 
 #. Plugin - name (first_strike)
 #. source: First Strike
@@ -984,12 +984,12 @@ msgstr "抵抗所有受到的傷害(指數級)"
 #. Stat display - name (upgrade_player_coin_gain)
 #. source: Coin Gain
 msgid "STAT.upgrade_player_coin_gain.name"
-msgstr "金幣獲取"
+msgstr "硬幣獲取"
 
 #. Stat display - description (upgrade_player_coin_gain)
 #. source: Multiplies the amount of all Coin received.
 msgid "STAT.upgrade_player_coin_gain.description"
-msgstr "將收到的所有金幣數量乘以相應的倍數"
+msgstr "將收到的所有硬幣數量乘以相應的倍數"
 
 #. Stat display - name (upgrade_player_crit_chance)
 #. source: Crit Chance
@@ -1319,7 +1319,7 @@ msgstr "提升傷害抗性 +{percent}%"
 #. source: Increases coin gain by +{percent}%.
 #. Keep placeholders unchanged: {percent}
 msgid "UPGRADE.upgrade_player_coin_gain.description"
-msgstr "增加金幣獲取量 +{percent}%"
+msgstr "增加硬幣獲取量 +{percent}%"
 
 #. Upgrade card - description (upgrade_player_crit_chance)
 #. source: Increases crit hit chance by +{percent}%.
@@ -2628,7 +2628,7 @@ msgstr "Lemwire"
 #. Personalise - avatar name
 #. source: Coin
 msgid "UI.avatar_coin"
-msgstr "金幣"
+msgstr "硬幣"
 
 #. Personalise - theme name
 #. source: Modern
@@ -3007,12 +3007,12 @@ msgstr "%s 開啟數"
 #. Profile stats - coins collected
 #. source: Coin Collected
 msgid "UI.stat_coins_collected"
-msgstr "金幣收集數"
+msgstr "硬幣收集數"
 
 #. Profile stats - coins collected tooltip
 #. source: Coin picked up across all runs.
 msgid "UI.stat_coins_collected_desc"
-msgstr "所有遊玩累計收集到的金幣總數"
+msgstr "所有遊玩累計收集到的硬幣總數"
 
 #. Profile stats - keys collected
 #. source: Keys Collected
@@ -3528,7 +3528,7 @@ msgstr "商店"
 #. Shop screen - speech
 #. source: Purchase some upgrades! Please, I need Coin...
 msgid "UI.shop_speech"
-msgstr "購買一些升級 !拜託，我需要金幣…"
+msgstr "購買一些升級 !拜託，我需要硬幣…"
 
 #. UI (script-driven)
 #. source: Defragmented
@@ -3577,7 +3577,7 @@ msgstr ""
 #. Coin Collector notification
 #. source: Collecting coins
 msgid "UI.notif_coin_magnet"
-msgstr "正在收集金幣"
+msgstr "正在收集硬幣"
 
 #. Stock auto-cashout notification with amount
 #. source: Investment withdrawn (%.2f)
@@ -3711,7 +3711,7 @@ msgstr ""
 #. source: To survive:\nAvoid enemies, collect EXP and Coin, get upgrades, and open files.\n\nSome files have risks, some need keys, and some just give guaranteed rewards.\n\nYou will also have a Side Task in the top-right corner for each round that awards bonuses.
 msgid "UI.tutorial_6_body"
 msgstr ""
-"生存之道:躲避敵人，收集經驗值和金幣，獲得升級，並開啟文件. \n"
+"生存之道:躲避敵人，收集經驗值和硬幣，獲得升級，並開啟文件. \n"
 "\n"
 "有些文件有風險，有些需要金鑰，有些則直接提供獎勵.\n"
 "\n"
@@ -4021,7 +4021,7 @@ msgstr "另一部分正在下載，取得 Vapidshare Pro 以實現同時下載"
 #. source: Reroll: %.2f Coin
 #. Keep placeholders unchanged: %.2f
 msgid "UI.reroll_coin"
-msgstr "重擲:%.2f 金幣"
+msgstr "重擲:%.2f 硬幣"
 
 #. HUD - Beanz label
 #. source: Beanz: %d
@@ -4033,7 +4033,7 @@ msgstr "Beanz: %d"
 #. source: Coin: %.2f
 #. Keep placeholders unchanged: %.2f
 msgid "UI.coin"
-msgstr "金幣數:%.2f"
+msgstr "硬幣數:%.2f"
 
 #. HUD - Keys label
 #. source: Keys: %d
@@ -4186,7 +4186,7 @@ msgstr "暴擊 {amount} 次"
 #. source: Spend {amount} Coin in shops
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_spend_coin"
-msgstr "在商店花費 {amount} 金幣"
+msgstr "在商店花費 {amount} 硬幣"
 
 #. Unlock requirement - install N plugins
 #. source: Install {amount} plugins
@@ -4210,7 +4210,7 @@ msgstr "收集 {amount} 把金鑰"
 #. source: Collect {amount} Coin
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_collect_coin"
-msgstr "收集 {amount} 枚金幣"
+msgstr "收集 {amount} 枚硬幣"
 
 #. Unlock requirement - take N damage lifetime
 #. source: Take {amount} damage
@@ -4349,7 +4349,7 @@ msgstr "藍屏 10 次"
 #. source: Collect {amount} Coin in a single run
 #. Keep placeholders unchanged: {amount}
 msgid "UI.unlock_widget_nos"
-msgstr "單輪收集 {amount} 枚金幣"
+msgstr "單輪收集 {amount} 枚硬幣"
 
 #. UI (script-driven)
 #. source: Temporarily boost cursor speed for a short burst.
@@ -4384,7 +4384,7 @@ msgstr "無盡痛苦"
 #. UI (script-driven)
 #. source: Buy and sell Keys for Coin in Safe Folders.
 msgid "UI.unlock_file_keybuy_desc"
-msgstr "在安全文件夾中用金幣買賣金鑰"
+msgstr "在安全文件夾中用硬幣買賣金鑰"
 
 #. UI (script-driven)
 #. source: KeyBuy
@@ -4404,7 +4404,7 @@ msgstr "健康檢查 Plus"
 #. UI (script-driven)
 #. source: Invest Coin between battles and cash out later.
 msgid "UI.unlock_file_stock_trader_desc"
-msgstr "在戰鬥間隙投資金幣，並在稍後兌現"
+msgstr "在戰鬥間隙投資硬幣，並在稍後兌現"
 
 #. UI (script-driven)
 #. source: Finance Manager
@@ -4414,7 +4414,7 @@ msgstr "財務經理"
 #. Unlock description - Ethanol 130% safe file
 #. source: Pay Coin to copy a random plugin you already have installed.
 msgid "UI.unlock_file_ethanol_desc"
-msgstr "支付金幣複製一個你已安裝的隨機插件"
+msgstr "支付硬幣複製一個你已安裝的隨機插件"
 
 #. Unlock reward - Ethanol 130% name
 #. source: Ethanol 130%
@@ -4737,7 +4737,7 @@ msgstr "售出 1 把金鑰"
 #. source: {cost} Coin
 #. Keep placeholders unchanged: {cost}
 msgid "UI.keybuy_cost"
-msgstr "{cost} 金幣"
+msgstr "{cost} 硬幣"
 
 #. KeyBuy header slogan
 #. source: The World's Biggest Key Marketplace
@@ -4748,15 +4748,15 @@ msgstr "全球最大的金鑰交易平台"
 #. source: Spend {cost} Coin for 1 Key.
 #. Keep placeholders unchanged: {cost}
 msgid "UI.keybuy_buy_tooltip"
-msgstr "花費 {cost} 金幣購買 1 把金鑰"
+msgstr "花費 {cost} 硬幣購買 1 把金鑰"
 
 #. KeyBuy sell tooltip
 #. source: Sell 1 Key for {cost} Coin.\nMarketplace fee keeps {fee} Coin.
 #. Keep placeholders unchanged: {cost}, {fee}
 msgid "UI.keybuy_sell_tooltip"
 msgstr ""
-"出售 1 把金鑰，獲得 {cost} 金幣. \n"
-"市場手續費保留 {fee} 金幣"
+"出售 1 把金鑰，獲得 {cost} 硬幣. \n"
+"市場手續費保留 {fee} 硬幣"
 
 #. KeyBuy nav links under the logo
 #. source: home | buy | sell | my keys | help
@@ -4853,7 +4853,7 @@ msgstr "+{amount} 生命值"
 #. source: {cost} Coin
 #. Keep placeholders unchanged: {cost}
 msgid "UI.health_check_pro_cost"
-msgstr "{cost} 金幣"
+msgstr "{cost} 硬幣"
 
 #. Finance Manager window and desktop icon title
 #. source: Finance Manager
@@ -4933,7 +4933,7 @@ msgstr "待處理"
 #. Finance Manager plus button tooltip
 #. source: Add Coin to your pending deposit.
 msgid "UI.stock_trader_plus_tooltip"
-msgstr "將金幣加到你的待存款項中"
+msgstr "將硬幣加到你的待存款項中"
 
 #. Finance Manager minus button tooltip
 #. source: Reduce your pending deposit.
@@ -4943,7 +4943,7 @@ msgstr "減少你的待存款項"
 #. Finance Manager all-in button tooltip
 #. source: Set pending deposit to all Coin on hand.
 msgid "UI.stock_trader_all_in_tooltip"
-msgstr "將所有持有的金幣設為待存入金額"
+msgstr "將所有持有的硬幣設為待存入金額"
 
 #. Finance Manager invest button
 #. source: Invest
@@ -4953,23 +4953,23 @@ msgstr "投資"
 #. Finance Manager invest button tooltip
 #. source: Invest pending Coin.
 msgid "UI.stock_trader_confirm_tooltip"
-msgstr "待確認的金幣交易"
+msgstr "待確認的硬幣交易"
 
 #. Finance Manager withdraw button tooltip
 #. source: Cash out your current investment to Coin.
 msgid "UI.stock_trader_withdraw_tooltip"
-msgstr "將你目前的投資全兌現成金幣"
+msgstr "將你目前的投資全兌現成硬幣"
 
 #. Ethanol 130% window explanation
 #. source: Pay Coin to roll a copy of a random plugin you already have installed.
 msgid "UI.ethanol_body"
-msgstr "支付金幣來複製隨機一項你已安裝的插件"
+msgstr "支付硬幣來複製隨機一項你已安裝的插件"
 
 #. Ethanol 130% copy button
 #. source: Copy: {cost} Coin
 #. Keep placeholders unchanged: {cost}
 msgid "UI.ethanol_copy"
-msgstr "複製: {cost} 金幣"
+msgstr "複製: {cost} 硬幣"
 
 #. Ethanol 130% install button
 #. source: Install
@@ -5040,7 +5040,7 @@ msgstr "雙擊戰鬥"
 #. Desktop icon tooltip
 #. source: Double-Click to collect all coins
 msgid "CLICKABLE.double_click_collect_coins"
-msgstr "雙擊獲取金幣"
+msgstr "雙擊獲取硬幣"
 
 #. Desktop icon tooltip
 #. source: Double-Click to collect all data
@@ -5369,7 +5369,7 @@ msgstr "本輪清除的敵人數"
 #. Run stats panel row
 #. source: Coins collected this run.
 msgid "RUNSTAT.coin_collected_desc"
-msgstr "本輪獲得的金幣數"
+msgstr "本輪獲得的硬幣數"
 
 #. Run stats panel row
 #. source: Keys collected this run.
@@ -6398,7 +6398,7 @@ msgstr "所有數據均已收集完畢."
 #. Scene label
 #. screens: main.tscn
 msgid "Collecting any loose Coin."
-msgstr "收集散落的金幣."
+msgstr "收集散落的硬幣."
 
 #. Scene label
 #. screens: main.tscn
