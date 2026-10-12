@@ -1277,7 +1277,7 @@ msgstr "火圈生成"
 #. Weapon amount upgrade - phrase after "additional" for FontArt
 #. source: letters spawning
 msgid "WEAPON.fontart.spawn_noun"
-msgstr "信封生成"
+msgstr "文字生成"
 
 #. Weapon amount upgrade - phrase after "additional" for HaD: DoCK
 #. source: shots
