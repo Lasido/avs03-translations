@@ -1678,7 +1678,7 @@ msgstr "斬擊"
 #. Weapon metadata
 #. source: shot
 msgid "WEAPON.sniper.spawn_noun"
-msgstr "射擊"
+msgstr "射擊(次數)"
 
 #. Weapon metadata
 #. source: mine
