@@ -1953,7 +1953,7 @@ msgstr "音量大小"
 #. Settings menu
 #. source: Text services
 msgid "SETTINGS.group_text_services"
-msgstr "簡訊服務"
+msgstr "文字服務"
 
 #. Settings menu
 #. source: Menu controls
