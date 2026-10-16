@@ -2063,7 +2063,7 @@ msgstr "將遊戲幀率限制在與螢幕更新率相同，以防止畫面撕裂
 #. Settings menu
 #. source: Maximum frames per second. Unlimited uses your hardware's limit.
 msgid "SETTINGS.fps_cap_tip"
-msgstr "每秒最大幀數.無上限 受限於你的硬體限制"
+msgstr "每秒最大幀數. 無上限則受限於你的硬體限制"
 
 #. Settings menu
 #. source: Strength of the CRT scanline filter over the screen.
