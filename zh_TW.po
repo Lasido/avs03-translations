@@ -2068,7 +2068,7 @@ msgstr "每秒最大幀數.無上限 受限於你的硬體限制"
 #. Settings menu
 #. source: Strength of the CRT scanline filter over the screen.
 msgid "SETTINGS.crt_filter_tip"
-msgstr "CRT掃描線濾波器對螢幕的影響強度"
+msgstr "調整螢幕 CRT 掃描線效果的強度"
 
 #. Settings menu
 #. source: Show or hide the monitor frame around the desktop.
