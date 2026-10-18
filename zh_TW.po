@@ -779,14 +779,14 @@ msgstr "同時更快下載多個Vapidshare分卷"
 #. Plugin - name (megacrit)
 #. source: Megacrit
 msgid "PLUGIN.megacrit.name"
-msgstr "超-暴擊"
+msgstr "超．暴擊"
 
 #. Plugin - description (megacrit)
 #. source: Increase Crit Chance +40%.\nCrit Chance above 100% can Megacrit for double Crit Damage.
 msgid "PLUGIN.megacrit.description"
 msgstr ""
 "+40%暴擊機率\n"
-"暴擊率超過100%時可觸發超-暴擊，造成雙倍暴擊傷害"
+"暴擊率超過100%時可觸發超．暴擊，造成雙倍暴擊傷害"
 
 #. Plugin - name (hyperthread)
 #. source: Hyperthreading
@@ -5881,7 +5881,7 @@ msgstr "無法投遞"
 #. Weapon driver / overclock card - description (email_bounce)
 #. source: When the last envelope bounces, start Refresh.
 msgid "DRIVER.email_bounce.description"
-msgstr "當最後的信封彈跳時，立即刷新"
+msgstr "當最後一封信封返回時，立即刷新"
 
 #. Weapon driver / overclock card - name (firewall_deny)
 #. source: Deny
