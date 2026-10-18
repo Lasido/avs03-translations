@@ -3526,7 +3526,9 @@ msgstr "商店"
 #. Shop screen - speech
 #. source: Purchase some upgrades! Please, I need Coin...
 msgid "UI.shop_speech"
-msgstr "購買一些升級 !拜託，我需要硬幣…"
+msgstr ""
+"購買一些升級!\n"
+"拜託，我需要硬幣…"
 
 #. UI (script-driven)
 #. source: Defragmented
