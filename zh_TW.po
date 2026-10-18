@@ -5143,7 +5143,7 @@ msgstr "摧毀螢幕上的一切  !"
 #. Desktop icon tooltip
 #. source: Harder run. Extra Plus! enemies.
 msgid "CLICKABLE.morgan_av_warning"
-msgstr "難度更大.額外的Plus!敵人"
+msgstr "難度更高.額外的Plus!敵人"
 
 #. Stat tooltip
 #. source: Level %d
