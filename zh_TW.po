@@ -774,7 +774,7 @@ msgstr "Vapidshare Pro"
 #. Plugin - description (vapidshare_pro)
 #. source: Download Vapidshare parts simultaneously and faster.
 msgid "PLUGIN.vapidshare_pro.description"
-msgstr "同時更快下載多個Vapidshare分卷"
+msgstr "可同時下載多個Vapidshare分割檔"
 
 #. Plugin - name (megacrit)
 #. source: Megacrit
@@ -4424,7 +4424,7 @@ msgstr "Ethanol 130%"
 #. UI (script-driven)
 #. source: Download multi-part archives that drop Cracked Installers.
 msgid "UI.unlock_file_vapidshare_desc"
-msgstr "下載多部分分卷，以取得破解安裝程式"
+msgstr "下載多個分割檔，以取得破解安裝程式"
 
 #. UI (script-driven)
 #. source: Vapidshare
