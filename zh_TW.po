@@ -65,7 +65,8 @@ msgstr ""
 "丟包+15\n"
 "-25最大生命值\n"
 "武器傷害乘0.9x\n"
-"掉包時游標速度乘1.25x，刷新速度乘1.2x(持續4秒)"
+"丟包時游標速度乘1.25x，\n"
+"刷新速度乘1.2x(持續4秒)"
 
 #. Class select - name (breakpoint)
 #. source: Breakpoint
@@ -262,7 +263,7 @@ msgstr "硬體中斷請求"
 msgid "PLUGIN.armor_damage_trigger.description"
 msgstr ""
 "+5護甲\n"
-"當受到傷害時+25掉包(持續10秒)"
+"當受到傷害時+25丟包(持續10秒)"
 
 #. Plugin - name (armor_missing_hp)
 #. source: Last Known Good
