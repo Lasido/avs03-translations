@@ -4424,7 +4424,7 @@ msgstr "Ethanol 130%"
 #. UI (script-driven)
 #. source: Download multi-part archives that drop Cracked Installers.
 msgid "UI.unlock_file_vapidshare_desc"
-msgstr "下載多個分割檔，以取得破解安裝程式"
+msgstr "下載多個分割檔，以取得破解版安裝程式"
 
 #. UI (script-driven)
 #. source: Vapidshare
