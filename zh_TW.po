@@ -683,7 +683,7 @@ msgstr "彈出視窗攔截器"
 #. Plugin - description (spam_blocker)
 #. source: Block half of Spam Popups.
 msgid "PLUGIN.spam_blocker.description"
-msgstr "攔截一半的垃圾彈窗"
+msgstr "攔截一半的垃圾廣告彈窗"
 
 #. Plugin - name (adsense)
 #. source: Hit Counter
@@ -2978,7 +2978,7 @@ msgstr "垃圾廣告攻擊"
 #. Profile stats - failed file opens tooltip
 #. source: Spam popups spawned from failed Zip or Download More RAM opens.
 msgid "UI.stat_failed_files_desc"
-msgstr "因 Zip 或下載更多記憶體 開啟失敗而產生的垃圾彈窗"
+msgstr "因 Zip 或下載更多記憶體 開啟失敗而產生的垃圾廣告彈窗"
 
 #. Profile stats - rar files opened tooltip
 #. source: Rar archives completed.
@@ -4677,7 +4677,7 @@ msgstr "開放式轉寄"
 #. Optional extra difficulty policy - description (open_relay)
 #. source: Every battle file includes spam.
 msgid "POLICY.open_relay.description"
-msgstr "每個戰鬥資料夾都會出現垃圾郵件"
+msgstr "本輪戰鬥中會出現垃圾廣告"
 
 #. Optional extra difficulty policy - name (default_domain_policy)
 #. source: Natasha's Wrath
